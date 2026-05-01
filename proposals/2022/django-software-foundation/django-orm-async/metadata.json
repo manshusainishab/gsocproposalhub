@@ -1,0 +1,9 @@
+{
+  "name": "Anonymous",
+  "year": 2022,
+  "organization": "Django Software Foundation",
+  "project_title": "Django ORM Async Query Support",
+  "difficulty": "Intermediate",
+  "tech_stack": ["Python", "Django", "PostgreSQL", "asyncio"],
+  "short_description": "Extending Django's ORM with native async query support, enabling fully asynchronous database operations for high-concurrency web applications."
+}

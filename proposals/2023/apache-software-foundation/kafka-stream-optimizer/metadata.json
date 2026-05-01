@@ -1,0 +1,9 @@
+{
+  "name": "Anonymous",
+  "year": 2023,
+  "organization": "Apache Software Foundation",
+  "project_title": "Kafka Stream Processing Optimizer",
+  "difficulty": "Advanced",
+  "tech_stack": ["Java", "Apache Kafka", "Apache Flink", "Docker"],
+  "short_description": "Building an intelligent optimizer for Kafka Streams that automatically tunes partition assignments and buffer sizes based on real-time throughput metrics."
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Anonymous",
+  "year": 2024,
+  "organization": "Mozilla",
+  "project_title": "Firefox Accessibility Engine Overhaul",
+  "difficulty": "Intermediate",
+  "tech_stack": ["Rust", "JavaScript", "WebAPI", "ARIA"],
+  "short_description": "Redesigning the Firefox accessibility engine to improve screen reader performance and ensure full WCAG 2.2 compliance across all web content types."
+}
