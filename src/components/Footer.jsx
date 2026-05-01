@@ -53,7 +53,7 @@ function Footer() {
                 </a>
               </li>
               <li>
-                <a href="https://github.com/manshushahab/gsocproposalhub/" target="_blank" rel="noopener noreferrer" className="text-sm text-slate-400 hover:text-indigo-400 transition-colors">
+                <a href="https://github.com/manshusainishab/gsocproposalhub/blob/main/docs/CONTRIBUTING.md" target="_blank" rel="noopener noreferrer" className="text-sm text-slate-400 hover:text-indigo-400 transition-colors">
                   Contribution Guide
                 </a>
               </li>
