@@ -1,9 +1,0 @@
-{
-  "name": "Anonymous",
-  "year": 2022,
-  "organization": "OpenCV",
-  "project_title": "Real-Time Object Detection Pipeline",
-  "difficulty": "Beginner",
-  "tech_stack": ["Python", "OpenCV", "TensorFlow", "NumPy"],
-  "short_description": "Building a modular real-time object detection pipeline using OpenCV DNN module, with support for multiple model backends and camera inputs."
-}

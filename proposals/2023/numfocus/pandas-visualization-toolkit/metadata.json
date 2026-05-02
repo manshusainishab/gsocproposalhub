@@ -1,9 +1,0 @@
-{
-  "name": "Anonymous",
-  "year": 2023,
-  "organization": "NumFOCUS",
-  "project_title": "Pandas DataFrame Visualization Toolkit",
-  "difficulty": "Beginner",
-  "tech_stack": ["Python", "Pandas", "Matplotlib", "Jupyter"],
-  "short_description": "Creating an integrated visualization toolkit for Pandas DataFrames that auto-generates insightful charts and statistical summaries with minimal configuration."
-}

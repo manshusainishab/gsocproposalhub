@@ -1,9 +1,0 @@
-{
-  "name": "Anonymous",
-  "year": 2024,
-  "organization": "Google",
-  "project_title": "Gemini Code Assist — Multi-Language Support",
-  "difficulty": "Advanced",
-  "tech_stack": ["Python", "TensorFlow", "gRPC", "Kubernetes"],
-  "short_description": "Enhancing the Gemini Code Assist tool with multi-language context-aware suggestions, improving developer productivity across complex polyglot codebases."
-}

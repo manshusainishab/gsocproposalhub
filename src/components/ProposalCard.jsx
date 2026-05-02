@@ -1,38 +1,64 @@
 import { Link } from 'react-router-dom'
 import DifficultyBadge from './DifficultyBadge'
-import TechTag from './TechTag'
 
-function ProposalCard({ proposal, index = 0 }) {
-  const { project_title, organization, year, difficulty, tech_stack, short_description, yearSlug, orgSlug, projectSlug } = proposal
+function ProposalCard({ proposal, index = 0, orgImage }) {
+  const {
+    project_title, organization, year, difficulty,
+    tech_stack, short_description,
+    yearSlug, orgSlug, projectSlug,
+  } = proposal
 
   return (
     <Link
-      to={`/proposals/${yearSlug}/${orgSlug}/${projectSlug}`}
-      className="glass-card block p-6 group"
-      style={{ animationDelay: `${index * 0.05}s` }}
+      to={`/${orgSlug}/proposals/${yearSlug}/${projectSlug}`}
+      className="proposal-card group p-4"
+      style={{ animationDelay: `${Math.min(index * 0.04, 0.5)}s` }}
       id={`proposal-card-${yearSlug}-${orgSlug}-${projectSlug}`}
     >
-      <div className="flex items-start justify-between gap-3 mb-3">
-        <h3 className="flex-1 min-w-0 text-base font-semibold text-slate-100 group-hover:text-white transition-colors leading-snug line-clamp-2">
-          {project_title}
-        </h3>
-        <span className="shrink-0 text-xs font-mono text-slate-500 bg-slate-800/60 px-2 py-0.5 rounded">{year}</span>
-      </div>
-      <div className="flex items-center gap-2 mb-3">
-        <div className="w-5 h-5 rounded bg-gradient-to-br from-indigo-500/20 to-violet-500/20 flex items-center justify-center">
-          <span className="text-[10px] font-bold text-indigo-400">{organization?.charAt(0)}</span>
+      {/* Top row */}
+      <div className="flex items-center justify-between gap-2 mb-3">
+        <div className="flex items-center gap-2 min-w-0">
+          {orgImage ? (
+            <div className="w-7 h-7 rounded-lg overflow-hidden border border-gray-100 bg-gray-50 flex items-center justify-center flex-shrink-0">
+              <img
+                src={orgImage}
+                alt={organization}
+                className="w-full h-full object-contain p-0.5"
+                onError={(e) => { e.target.style.display = 'none' }}
+              />
+            </div>
+          ) : (
+            <div
+              className="w-7 h-7 rounded-lg flex items-center justify-center flex-shrink-0"
+              style={{ background: 'linear-gradient(135deg,#e0e7ff,#ddd6fe)' }}
+            >
+              <span className="text-xs font-bold text-indigo-600">{organization?.charAt(0)}</span>
+            </div>
+          )}
+          <span className="text-xs text-gray-500 font-medium truncate">{organization}</span>
         </div>
-        <span className="text-sm text-slate-400">{organization}</span>
+        <span className={`year-pill year-${year} flex-shrink-0`}>{year}</span>
       </div>
-      <p className="text-sm text-slate-400 leading-relaxed mb-4 line-clamp-2">{short_description}</p>
-      <div className="flex items-center justify-between gap-3">
+
+      {/* Title */}
+      <h3 className="text-sm font-bold text-gray-900 group-hover:text-indigo-700 transition-colors leading-snug line-clamp-2 mb-2">
+        {project_title}
+      </h3>
+
+      {/* Description */}
+      <p className="text-xs text-gray-500 leading-relaxed line-clamp-2 mb-3 flex-1">
+        {short_description}
+      </p>
+
+      {/* Footer */}
+      <div className="flex items-center justify-between gap-2 pt-2.5 border-t border-gray-100">
         <DifficultyBadge difficulty={difficulty} />
         <div className="flex flex-wrap gap-1 justify-end">
-          {(tech_stack || []).slice(0, 3).map(tech => (
-            <TechTag key={tech} tech={tech} />
+          {(tech_stack || []).slice(0, 3).map((t) => (
+            <span key={t} className="tech-tag">{t}</span>
           ))}
           {(tech_stack || []).length > 3 && (
-            <span className="text-xs text-slate-500 self-center">+{tech_stack.length - 3}</span>
+            <span className="text-[10px] text-gray-400 self-center">+{tech_stack.length - 3}</span>
           )}
         </div>
       </div>

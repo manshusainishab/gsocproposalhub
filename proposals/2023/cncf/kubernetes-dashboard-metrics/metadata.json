@@ -1,9 +1,0 @@
-{
-  "name": "Anonymous",
-  "year": 2023,
-  "organization": "CNCF",
-  "project_title": "Kubernetes Dashboard Real-Time Metrics",
-  "difficulty": "Intermediate",
-  "tech_stack": ["Go", "React", "Prometheus", "Kubernetes"],
-  "short_description": "Adding real-time streaming metrics and alerting capabilities to the Kubernetes Dashboard, providing cluster administrators with live operational insights."
-}

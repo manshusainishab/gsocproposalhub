@@ -1,32 +1,25 @@
-function DifficultyBadge({ difficulty, size = "sm" }) {
-  const config = {
-    Beginner: {
-      bg: 'bg-emerald-500/15',
-      text: 'text-emerald-400',
-      border: 'border-emerald-500/25',
-      dot: 'bg-emerald-400',
-    },
-    Intermediate: {
-      bg: 'bg-amber-500/15',
-      text: 'text-amber-400',
-      border: 'border-amber-500/25',
-      dot: 'bg-amber-400',
-    },
-    Advanced: {
-      bg: 'bg-rose-500/15',
-      text: 'text-rose-400',
-      border: 'border-rose-500/25',
-      dot: 'bg-rose-400',
-    },
+function DifficultyBadge({ difficulty, size = 'sm' }) {
+  const map = {
+    Easy: { cls: 'badge-easy', label: 'Easy' },
+    Medium: { cls: 'badge-medium', label: 'Medium' },
+    Hard: { cls: 'badge-hard', label: 'Hard' },
+    Beginner: { cls: 'badge-easy', label: 'Beginner' },
+    Intermediate: { cls: 'badge-medium', label: 'Intermediate' },
+    Advanced: { cls: 'badge-hard', label: 'Advanced' },
   }
 
-  const style = config[difficulty] || config.Beginner
-  const sizeClass = size === 'sm' ? 'text-xs px-2.5 py-0.5' : 'text-sm px-3 py-1'
+  const d = map[difficulty] || {
+    cls: 'bg-gray-100 text-gray-500 border border-gray-200',
+    label: difficulty || 'Unknown',
+  }
 
   return (
-    <span className={`inline-flex items-center gap-1.5 ${sizeClass} rounded-full font-medium ${style.bg} ${style.text} border ${style.border}`}>
-      <span className={`w-1.5 h-1.5 rounded-full ${style.dot}`}></span>
-      {difficulty}
+    <span
+      className={`inline-flex items-center rounded-full font-semibold tracking-wide text-xs ${d.cls} ${
+        size === 'md' ? 'px-3 py-1' : 'px-2.5 py-0.5'
+      }`}
+    >
+      {d.label}
     </span>
   )
 }
