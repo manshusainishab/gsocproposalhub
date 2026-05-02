@@ -2,7 +2,7 @@ import { useState, useEffect, useMemo } from 'react'
 import { Link } from 'react-router-dom'
 import OrgCard from '../components/OrgCard'
 
-const ORG_SOURCE = '/2026-orgs.json'
+const ORG_SOURCE = '/orgs-index.json'
 
 // All years GSoC has run (that we care about)
 const ALL_YEARS = [2026, 2025, 2024, 2023, 2022, 2021, 2020, 2019, 2018]
@@ -63,27 +63,26 @@ function OrgsPage() {
     [allTechs, techSearch]
   )
 
-  // Year counts
+  // Year counts — how many orgs appeared in each year
   const yearCounts = useMemo(() => {
     const counts = {}
-    proposals.forEach((p) => { counts[p.year] = (counts[p.year] || 0) + 1 })
+    orgs.forEach((org) => {
+      ;(org.years || []).forEach((y) => { counts[y] = (counts[y] || 0) + 1 })
+    })
     return counts
-  }, [proposals])
+  }, [orgs])
 
   // Filtered org list
   const filteredOrgs = useMemo(() => {
     const q = search.toLowerCase().trim()
     return orgs.filter((org) => {
-      // Name/desc search
       if (q && !org.name.toLowerCase().includes(q) && !org.desc?.toLowerCase().includes(q)) {
         return false
       }
-      // Year filter — only show orgs that appeared in selected years
       if (selectedYears.length > 0) {
-        const orgYears = orgMeta[org.name]?.years || []
+        const orgYears = org.years || orgMeta[org.name]?.years || []
         if (!selectedYears.some((y) => orgYears.includes(y))) return false
       }
-      // Tech filter — only show orgs with at least one selected tech
       if (selectedTechs.length > 0) {
         const orgTechs = orgMeta[org.name]?.techs || []
         if (!selectedTechs.some((t) => orgTechs.includes(t))) return false

@@ -1,0 +1,5 @@
+{
+  "name": "Prometheus-Operator",
+  "desc": "Managing Prometheus atop Kubernetes",
+  "img": "https://summerofcode.withgoogle.com/media/org/prometheus-operator/dpytdkpyfejrot7o-360.png"
+}
