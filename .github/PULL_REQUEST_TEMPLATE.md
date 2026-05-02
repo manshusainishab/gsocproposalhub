@@ -12,16 +12,16 @@
 
 ## Checklist
 
-- [ ] I have followed folder naming conventions (`/proposals/{year}/{org-slug}/{project-slug}/`)
-- [ ] Folder names are lowercase and hyphen-separated
-- [ ] I have added `metadata.json` with valid schema
-- [ ] All required fields are present in `metadata.json`
-- [ ] `difficulty` matches one of: `Beginner`, `Intermediate`, `Advanced`
-- [ ] `tech_stack` is an array of strings
-- [ ] `year` is a number (not a string)
-- [ ] I have included `proposal.pdf`
-- [ ] File names are exactly `metadata.json` and `proposal.pdf`
-- [ ] No extra or invalid fields added in `metadata.json`
+- [ ] Folder names follow the convention: `/proposals/{year}/{org-slug}/{project-slug}/`
+- [ ] Folder names are all lowercase, hyphen-separated, no spaces or underscores
+- [ ] Metadata file is named `proposal.json`, `proposal.yaml`, `metadata.json`, or `metadata.yaml`
+- [ ] `project_title` is present and a non-empty string
+- [ ] `short_description` is present and a non-empty string
+- [ ] `difficulty` (if set) matches one of: `Easy`, `Medium`, `Hard`, `Beginner`, `Intermediate`, `Advanced`
+- [ ] `tech_stack` (if set) is an array of strings, not a comma-separated string
+- [ ] `references` (if set) is an array of `{ title, url }` objects
+- [ ] PDF is provided via `proposal.pdf` in the folder or a `pdf_url` field in the metadata
+- [ ] README.md (if added) has at least one heading and is not empty
 
 ## Reviewer Notes
 
