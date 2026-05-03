@@ -1,9 +1,0 @@
-{
-  "name": "Anonymous",
-  "year": 2024,
-  "organization": "Python Software Foundation",
-  "project_title": "CPython JIT Compiler Improvements",
-  "difficulty": "Advanced",
-  "tech_stack": ["C", "Python", "LLVM", "Assembly"],
-  "short_description": "Contributing to the experimental CPython JIT compiler by implementing new optimization passes for common Python patterns and benchmarking performance gains."
-}

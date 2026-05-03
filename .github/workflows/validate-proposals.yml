@@ -1,0 +1,50 @@
+name: Validate Proposals
+
+on:
+  pull_request:
+    paths:
+      - 'proposals/**'
+      - 'scripts/lib/**'
+      - 'scripts/validate-proposals.js'
+      - 'scripts/build-index.js'
+
+jobs:
+  validate:
+    name: Schema & Structure Validation
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Run proposal validator
+        run: node scripts/validate-proposals.js
+
+  test:
+    name: Unit & Integration Tests
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Run tests
+        run: npm test

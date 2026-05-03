@@ -1,0 +1,3387 @@
+[
+  {
+    "slug": "aboutcode",
+    "name": "AboutCode",
+    "desc": "Scan code for origin, license and vulnerabilities",
+    "img": "https://summerofcode.withgoogle.com/media/org/aboutcode/v8yhhmpej4djujai-360.png",
+    "years": [
+      2026,
+      2025,
+      2024,
+      2023,
+      2022
+    ]
+  },
+  {
+    "slug": "accord-project",
+    "name": "Accord Project",
+    "desc": "Open source software for smart legal contracts",
+    "img": "https://summerofcode.withgoogle.com/media/org/accord-project/1q3vpch01xpsriu9-360.png",
+    "years": [
+      2026,
+      2025,
+      2024
+    ]
+  },
+  {
+    "slug": "alaska",
+    "name": "Alaska",
+    "desc": "Many Traditions, One Alaska",
+    "img": "https://summerofcode.withgoogle.com/media/org/alaska/uuu8lxevgc3jof9c.png",
+    "years": [
+      2026,
+      2025,
+      2024
+    ]
+  },
+  {
+    "slug": "ankidroid",
+    "name": "AnkiDroid",
+    "desc": "AnkiDroid makes remembering things easy",
+    "img": "https://summerofcode.withgoogle.com/media/org/ankidroid/cxtovrlsuuluttgi-360.png",
+    "years": [
+      2026,
+      2025,
+      2024,
+      2022
+    ]
+  },
+  {
+    "slug": "aossie",
+    "name": "AOSSIE",
+    "desc": "Australian Umbrella Org for Open-Source Projects",
+    "img": "https://summerofcode.withgoogle.com/media/org/aossie/oo1wd34pc1ytrq6a-360.png",
+    "years": [
+      2026,
+      2025,
+      2024,
+      2023,
+      2022
+    ]
+  },
+  {
+    "slug": "apache-software-foundation",
+    "name": "Apache Software Foundation",
+    "desc": "Open source software to the public free of charge",
+    "img": "https://summerofcode.withgoogle.com/media/org/apache-software-foundation/hq22fwtmvdfjnsh9-360.png",
+    "years": [
+      2026,
+      2025,
+      2024,
+      2023,
+      2022
+    ]
+  },
+  {
+    "slug": "api-dash",
+    "name": "API Dash",
+    "desc": "Next-gen AI powered Open Source API DevTool",
+    "img": "https://summerofcode.withgoogle.com/media/org/api-dash/wgtarubdkvdp5qih-360.png",
+    "years": [
+      2026,
+      2025,
+      2024
+    ]
+  },
+  {
+    "slug": "ardupilot",
+    "name": "ArduPilot",
+    "desc": "World's most advanced autonomous vehicle software",
+    "img": "https://summerofcode.withgoogle.com/media/org/ardupilot/oveqvcxkpgkuv8wq-360.png",
+    "years": [
+      2026,
+      2025,
+      2024,
+      2023,
+      2022
+    ]
+  },
+  {
+    "slug": "blender-foundation",
+    "name": "Blender Foundation",
+    "desc": "The Freedom to Create",
+    "img": "https://summerofcode.withgoogle.com/media/org/blender-foundation/b3isfbjn0avwbmmf-360.png",
+    "years": [
+      2026,
+      2025,
+      2024,
+      2023,
+      2022
+    ]
+  },
+  {
+    "slug": "boa",
+    "name": "Boa",
+    "desc": "An ECMAScript engine written in Rust",
+    "img": "https://summerofcode.withgoogle.com/media/org/boa/vhimc4zkw6j9t8wm-360.png",
+    "years": [
+      2026
+    ]
+  },
+  {
+    "slug": "brl-cad",
+    "name": "BRL-CAD",
+    "desc": "3D CAD & other computer-aided tech (CAx)",
+    "img": "https://summerofcode.withgoogle.com/media/org/brl-cad/4ec07aqdfrvygfed-360.png",
+    "years": [
+      2026,
+      2025,
+      2024,
+      2023,
+      2022
+    ]
+  },
+  {
+    "slug": "c2si",
+    "name": "C2SI",
+    "desc": "C2SI develops FOSS softwares for everyone!!!",
+    "img": "https://summerofcode.withgoogle.com/media/org/c2si/35pwh3uirrpdctn8.png",
+    "years": [
+      2026,
+      2024
+    ]
+  },
+  {
+    "slug": "cbioportal-for-cancer-genomics",
+    "name": "cBioPortal for Cancer Genomics",
+    "desc": "Aid discovery in complex cancer genomics data",
+    "img": "https://summerofcode.withgoogle.com/media/org/cbioportal-for-cancer-genomics/fdxtjhb0urtqcyfe-360.png",
+    "years": [
+      2026,
+      2025,
+      2024,
+      2023,
+      2022
+    ]
+  },
+  {
+    "slug": "ccextractor-development",
+    "name": "CCExtractor Development",
+    "desc": "TV, Rust, Flutter, Linux, VR and C. In any order.",
+    "img": "https://summerofcode.withgoogle.com/media/org/ccextractor-development/xjqt8fksfnyqyqrd-360.png",
+    "years": [
+      2026,
+      2025,
+      2024,
+      2023,
+      2022
+    ]
+  },
+  {
+    "slug": "ceph",
+    "name": "Ceph",
+    "desc": "The Future of Storage",
+    "img": "https://summerofcode.withgoogle.com/media/org/ceph/rvqqprqtyq0rfrcc-360.png",
+    "years": [
+      2026,
+      2025,
+      2024,
+      2023,
+      2022
+    ]
+  },
+  {
+    "slug": "cern-hsf",
+    "name": "CERN-HSF",
+    "desc": "Umbrella for Particle Physics-related projects",
+    "img": "https://summerofcode.withgoogle.com/media/org/cern-hsf/cjus658sjzba5zhg-360.png",
+    "years": [
+      2026,
+      2025,
+      2024,
+      2023,
+      2022
+    ]
+  },
+  {
+    "slug": "cgal-project",
+    "name": "CGAL Project",
+    "desc": "C++ library of computational geometry",
+    "img": "https://summerofcode.withgoogle.com/media/org/cgal-project/9ubuadbe0eg5xfcw-360.png",
+    "years": [
+      2026,
+      2025,
+      2024,
+      2023,
+      2022
+    ]
+  },
+  {
+    "slug": "checkstyle",
+    "name": "checkstyle",
+    "desc": "Helps to adheres of Java coding standard",
+    "img": "https://summerofcode.withgoogle.com/media/org/checkstyle/e8ubktvaft8eljli-360.png",
+    "years": [
+      2026,
+      2025,
+      2024,
+      2023,
+      2022
+    ]
+  },
+  {
+    "slug": "cncf",
+    "name": "CNCF",
+    "desc": "Building sustainable ecosystems for cloud native",
+    "img": "https://summerofcode.withgoogle.com/media/org/cncf/jmxijrttlucfutel-360.png",
+    "years": [
+      2026,
+      2025,
+      2024,
+      2023,
+      2022
+    ]
+  },
+  {
+    "slug": "criu",
+    "name": "CRIU",
+    "desc": "Chekpoint/Restore for Linux tasks and containers",
+    "img": "https://summerofcode.withgoogle.com/media/org/criu/ypjxpancpwtdf698-360.png",
+    "years": [
+      2026,
+      2025,
+      2024,
+      2023,
+      2022
+    ]
+  },
+  {
+    "slug": "cuneiform-digital-library-initiative-cdli",
+    "name": "Cuneiform Digital Library Initiative (CDLI)",
+    "desc": "Curating humanity’s earliest written history",
+    "img": "https://summerofcode.withgoogle.com/media/org/cuneiform-digital-library-initiative-cdli/pcifkvibocfw8hiy.png",
+    "years": [
+      2026,
+      2022
+    ]
+  },
+  {
+    "slug": "d-language-foundation",
+    "name": "D Language Foundation",
+    "desc": "Write fast, read fast, and run fast.",
+    "img": "https://summerofcode.withgoogle.com/media/org/d-language-foundation/u25qvh5ljfkkhkjj.png",
+    "years": [
+      2026,
+      2025
+    ]
+  },
+  {
+    "slug": "dart",
+    "name": "Dart",
+    "desc": "Dart is a client language for apps on any platform",
+    "img": "https://summerofcode.withgoogle.com/media/org/dart/hsghljw4m6popf0x-360.png",
+    "years": [
+      2026,
+      2025,
+      2024,
+      2023,
+      2022
+    ]
+  },
+  {
+    "slug": "data-for-the-common-good",
+    "name": "Data for the Common Good",
+    "desc": "Connect. Share. Discover.",
+    "img": "https://summerofcode.withgoogle.com/media/org/data-for-the-common-good/tk4snywy4ejlztpt-360.png",
+    "years": [
+      2026,
+      2025,
+      2024
+    ]
+  },
+  {
+    "slug": "dbpedia",
+    "name": "DBpedia",
+    "desc": "Global and Unified Access to Knowledge Graphs.",
+    "img": "https://summerofcode.withgoogle.com/media/org/dbpedia/cgjegpmawtu5fr6w-360.png",
+    "years": [
+      2026,
+      2025,
+      2024,
+      2023,
+      2022
+    ]
+  },
+  {
+    "slug": "debian",
+    "name": "Debian",
+    "desc": "The Universal Operating System",
+    "img": "https://summerofcode.withgoogle.com/media/org/debian/mmld9soj4mti8bjn-360.png",
+    "years": [
+      2026,
+      2025,
+      2024,
+      2022
+    ]
+  },
+  {
+    "slug": "deepchem",
+    "name": "DeepChem",
+    "desc": "Democratize AI for drug discovery.",
+    "img": "https://summerofcode.withgoogle.com/media/org/deepchem/ffdofoxp3ba1qqmh-360.png",
+    "years": [
+      2026,
+      2025,
+      2024
+    ]
+  },
+  {
+    "slug": "django-software-foundation",
+    "name": "Django Software Foundation",
+    "desc": "Web framework for perfectionists with deadlines",
+    "img": "https://summerofcode.withgoogle.com/media/org/django-software-foundation-8o/685unxpkksrvfugu-360.png",
+    "years": [
+      2026,
+      2025,
+      2024,
+      2023,
+      2022
+    ]
+  },
+  {
+    "slug": "dora-rs",
+    "name": "dora-rs",
+    "desc": "Simplify robotic apps with AI",
+    "img": "https://summerofcode.withgoogle.com/media/org/dora-rs-tb/u8emntrmqq6vgcih-360.png",
+    "years": [
+      2026,
+      2025
+    ]
+  },
+  {
+    "slug": "drupal-association",
+    "name": "Drupal Association",
+    "desc": "Build Bold Digital Experiences on Best Open Source",
+    "img": "https://summerofcode.withgoogle.com/media/org/drupal-association/kfbn4ws0uftixkho-360.png",
+    "years": [
+      2026,
+      2025,
+      2024,
+      2023,
+      2022
+    ]
+  },
+  {
+    "slug": "eclipse-foundation",
+    "name": "Eclipse Foundation",
+    "desc": "The Global Open Source Foundation",
+    "img": "https://summerofcode.withgoogle.com/media/org/eclipse-foundation/xo1ntao7atq7yjg2-360.png",
+    "years": [
+      2026,
+      2025,
+      2024,
+      2023,
+      2022
+    ]
+  },
+  {
+    "slug": "erofs-filesystem",
+    "name": "EROFS filesystem",
+    "desc": "Modern image-based kernel filesystem for everyone",
+    "img": "https://summerofcode.withgoogle.com/media/org/erofs-filesystem/qrkpvwkzjqmwoyau-360.png",
+    "years": [
+      2026
+    ]
+  },
+  {
+    "slug": "ffmpeg",
+    "name": "FFmpeg",
+    "desc": "Record, convert and stream audio & video",
+    "img": "https://summerofcode.withgoogle.com/media/org/ffmpeg/9nltyc13lvn7dqn0-360.png",
+    "years": [
+      2026,
+      2025,
+      2024,
+      2023,
+      2022
+    ]
+  },
+  {
+    "slug": "flare",
+    "name": "FLARE",
+    "desc": "Industry leading malware analysis",
+    "img": "https://summerofcode.withgoogle.com/media/org/flare/6so0wjs76qeewe9v-360.png",
+    "years": [
+      2026,
+      2025,
+      2024,
+      2023
+    ]
+  },
+  {
+    "slug": "fortran-lang",
+    "name": "Fortran-lang",
+    "desc": "High-performance parallel programming language",
+    "img": "https://summerofcode.withgoogle.com/media/org/fortran-lang/ay9se7mc6vgdwgbn-360.png",
+    "years": [
+      2026,
+      2025,
+      2024,
+      2023,
+      2022
+    ]
+  },
+  {
+    "slug": "fossasia",
+    "name": "FOSSASIA",
+    "desc": "Free and Open Source Software in Asia",
+    "img": "https://summerofcode.withgoogle.com/media/org/fossasia-bg/rquaoyo4v86xj21l-360.png",
+    "years": [
+      2026,
+      2025,
+      2024
+    ]
+  },
+  {
+    "slug": "fossology",
+    "name": "FOSSology",
+    "desc": "Open Source License Compliance by OSS",
+    "img": "https://summerofcode.withgoogle.com/media/org/fossology/bqfblnvpsqnfg5bh-360.png",
+    "years": [
+      2026,
+      2025,
+      2024,
+      2023,
+      2022
+    ]
+  },
+  {
+    "slug": "free-and-open-source-silicon-foundation",
+    "name": "Free and Open Source Silicon Foundation",
+    "desc": "Working together for Free and Open Source Silicon",
+    "img": "https://summerofcode.withgoogle.com/media/org/free-and-open-source-silicon-foundation/aie951otsp3xucok.png",
+    "years": [
+      2026,
+      2025,
+      2024,
+      2023,
+      2022
+    ]
+  },
+  {
+    "slug": "freecad",
+    "name": "FreeCAD",
+    "desc": "Cross-platform 3D parametric modeler",
+    "img": "https://summerofcode.withgoogle.com/media/org/freecad/hka287elz3d4wvzu.png",
+    "years": [
+      2026,
+      2025,
+      2024,
+      2023
+    ]
+  },
+  {
+    "slug": "gambit-the-package-for-computation-in-game-theory",
+    "name": "Gambit: The package for computation in game theory",
+    "desc": "The package for computation in game theory",
+    "img": "https://summerofcode.withgoogle.com/media/org/gambit-the-package-for-computation-in-game-theory/09u5sma4pizmwbqt-360.png",
+    "years": [
+      2026
+    ]
+  },
+  {
+    "slug": "gemini-cli",
+    "name": "Gemini CLI",
+    "desc": "Gemini CLI brings the power of Gemini directly into your terminal",
+    "img": "https://summerofcode.withgoogle.com/media/org/gemini-cli/mhi8cx7tyjt91i6n-360.png",
+    "years": [
+      2026
+    ]
+  },
+  {
+    "slug": "genome-assembly-and-annotation",
+    "name": "Genome Assembly and Annotation",
+    "desc": "Unleashing the potential of big data in biology",
+    "img": "https://summerofcode.withgoogle.com/media/org/genome-assembly-and-annotation/ixuasrqx18soo7ml-360.png",
+    "years": [
+      2026,
+      2023,
+      2022
+    ]
+  },
+  {
+    "slug": "geomscale",
+    "name": "GeomScale",
+    "desc": "Scalable geometric and statistical software",
+    "img": "https://summerofcode.withgoogle.com/media/org/geomscale/ongpste986nd7t6p-360.png",
+    "years": [
+      2026,
+      2025,
+      2024,
+      2023,
+      2022
+    ]
+  },
+  {
+    "slug": "german-center-for-open-source-ai",
+    "name": "German Center for Open Source AI",
+    "desc": "Democratically governed AI for society",
+    "img": "https://summerofcode.withgoogle.com/media/org/german-center-for-open-source-ai/mir4i7v7wopcc7wn-360.png",
+    "years": [
+      2026
+    ]
+  },
+  {
+    "slug": "git",
+    "name": "Git",
+    "desc": "Fast,Scalable,Distributed revision control system",
+    "img": "https://summerofcode.withgoogle.com/media/org/git/mbqqznjbaohwgq80-360.png",
+    "years": [
+      2026,
+      2025,
+      2024,
+      2023,
+      2022
+    ]
+  },
+  {
+    "slug": "global-alliance-for-genomics-and-health",
+    "name": "Global Alliance for Genomics and Health",
+    "desc": "We develop genomics tools to benefit human health",
+    "img": "https://summerofcode.withgoogle.com/media/org/global-alliance-for-genomics-and-health/0bnlmihuhff098xd-360.png",
+    "years": [
+      2026,
+      2024,
+      2023,
+      2022
+    ]
+  },
+  {
+    "slug": "gnome-foundation",
+    "name": "GNOME Foundation",
+    "desc": "A diverse and sustainable free software desktop.",
+    "img": "https://summerofcode.withgoogle.com/media/org/gnome-foundation/aqwqx1x6ozjnxsak-360.png",
+    "years": [
+      2026,
+      2025,
+      2024,
+      2023,
+      2022
+    ]
+  },
+  {
+    "slug": "gnu-compiler-collection-gcc",
+    "name": "GNU Compiler Collection (GCC)",
+    "desc": "GNU compilers",
+    "img": "https://summerofcode.withgoogle.com/media/org/gnu-compiler-collection-gcc/kpspl59nyj0hoxlr-360.png",
+    "years": [
+      2026,
+      2025,
+      2024,
+      2023,
+      2022
+    ]
+  },
+  {
+    "slug": "gnu-image-manipulation-program",
+    "name": "GNU Image Manipulation Program",
+    "desc": "GIMP is a cross-platform image editor",
+    "img": "https://summerofcode.withgoogle.com/media/org/gnu-image-manipulation-program/ocldunfrxwufuvdf.png",
+    "years": [
+      2026,
+      2025,
+      2024,
+      2023,
+      2022
+    ]
+  },
+  {
+    "slug": "gnu-mailman",
+    "name": "GNU Mailman",
+    "desc": "GNU Mailman manages your mailing lists.",
+    "img": "https://summerofcode.withgoogle.com/media/org/gnu-mailman/cg5sxkouo8rjtjw2-360.png",
+    "years": [
+      2026
+    ]
+  },
+  {
+    "slug": "gnu-octave",
+    "name": "GNU Octave",
+    "desc": "Free Your Numbers",
+    "img": "https://summerofcode.withgoogle.com/media/org/gnu-octave/0kc85jo6rl3eo2g0-360.png",
+    "years": [
+      2026,
+      2025,
+      2024,
+      2023,
+      2022
+    ]
+  },
+  {
+    "slug": "gnu-project",
+    "name": "GNU Project",
+    "desc": "Development of the GNU Operating System",
+    "img": "https://summerofcode.withgoogle.com/media/org/gnu-project-av/aht1h1aunalkojoq-360.png",
+    "years": [
+      2026,
+      2024,
+      2023
+    ]
+  },
+  {
+    "slug": "gnu-radio",
+    "name": "GNU Radio",
+    "desc": "The free & open software radio ecosystem",
+    "img": "https://summerofcode.withgoogle.com/media/org/gnu-radio/v1g5y6exzlwgfulv-360.png",
+    "years": [
+      2026,
+      2025,
+      2024,
+      2023,
+      2022
+    ]
+  },
+  {
+    "slug": "gprmax",
+    "name": "gprMax",
+    "desc": "Simulating electromagnetic wave propagation",
+    "img": "https://summerofcode.withgoogle.com/media/org/gprmax/vm8kavyxz3csja8f-360.png",
+    "years": [
+      2026,
+      2025,
+      2024,
+      2023
+    ]
+  },
+  {
+    "slug": "grame",
+    "name": "GRAME",
+    "desc": "Domain specific language for audio",
+    "img": "https://summerofcode.withgoogle.com/media/org/grame/joff5sziiuapvits-360.png",
+    "years": [
+      2026,
+      2025,
+      2024,
+      2023,
+      2022
+    ]
+  },
+  {
+    "slug": "graphite",
+    "name": "Graphite",
+    "desc": "Multimedia art/design editor and graphics engine",
+    "img": "https://summerofcode.withgoogle.com/media/org/graphite-labs/p5x1ehnbihaxxqoq-360.png",
+    "years": [
+      2026,
+      2025,
+      2024
+    ]
+  },
+  {
+    "slug": "haiku",
+    "name": "Haiku",
+    "desc": "Operating system that targets personal computing.",
+    "img": "https://summerofcode.withgoogle.com/media/org/haiku/lnrgd3agfl2kogbo-360.png",
+    "years": [
+      2026,
+      2024,
+      2023,
+      2022
+    ]
+  },
+  {
+    "slug": "humanai",
+    "name": "HumanAI",
+    "desc": "AI for the Arts and the Humanities",
+    "img": "https://summerofcode.withgoogle.com/media/org/humanai/n5oaqivpu4hu4alm-360.png",
+    "years": [
+      2026,
+      2025,
+      2024
+    ]
+  },
+  {
+    "slug": "incf",
+    "name": "INCF",
+    "desc": "An open & FAIR neuroscience standards organization",
+    "img": "https://summerofcode.withgoogle.com/media/org/incf/gnryoa8kunjogh9a-360.png",
+    "years": [
+      2026,
+      2025,
+      2024,
+      2023,
+      2022
+    ]
+  },
+  {
+    "slug": "international-catrobat-association",
+    "name": "International Catrobat Association",
+    "desc": "Free visual coding apps for computational thinking",
+    "img": "https://summerofcode.withgoogle.com/media/org/international-catrobat-association/dfkxzmsqlkyvwi2o-360.png",
+    "years": [
+      2026,
+      2025,
+      2024,
+      2023,
+      2022
+    ]
+  },
+  {
+    "slug": "internet-archive",
+    "name": "Internet Archive",
+    "desc": "Universal Access to All Knowledge",
+    "img": "https://summerofcode.withgoogle.com/media/org/internet-archive/uzbgzbb9tvp81c2i.png",
+    "years": [
+      2026,
+      2025,
+      2024,
+      2023
+    ]
+  },
+  {
+    "slug": "invesalius",
+    "name": "Invesalius",
+    "desc": "3D Medical visualization and neuronavigation tool",
+    "img": "https://summerofcode.withgoogle.com/media/org/invesalius/ktlk8dmldhfmlyb2-360.png",
+    "years": [
+      2026,
+      2025,
+      2024,
+      2023
+    ]
+  },
+  {
+    "slug": "ioos",
+    "name": "IOOS",
+    "desc": "Our eyes on the ocean, coasts, and Great Lakes",
+    "img": "https://summerofcode.withgoogle.com/media/org/ioos/oe7caipkhwnizoyr-360.png",
+    "years": [
+      2026,
+      2025,
+      2024,
+      2022
+    ]
+  },
+  {
+    "slug": "jboss-community",
+    "name": "JBoss Community",
+    "desc": "Community of projects around JBoss Middleware",
+    "img": "https://summerofcode.withgoogle.com/media/org/jboss-community/vno1fifehc0i6aa6-360.png",
+    "years": [
+      2026,
+      2022
+    ]
+  },
+  {
+    "slug": "jderobot",
+    "name": "JdeRobot",
+    "desc": "Toolkit for developing Robotics applications",
+    "img": "https://summerofcode.withgoogle.com/media/org/jderobot/xwu8zkcagffmlqdj-360.png",
+    "years": [
+      2026,
+      2025,
+      2024,
+      2023,
+      2022
+    ]
+  },
+  {
+    "slug": "jenkins",
+    "name": "Jenkins",
+    "desc": "Jenkins, build great things at any scale",
+    "img": "https://summerofcode.withgoogle.com/media/org/jenkins-wp/7qlgfron9nyj194y-360.png",
+    "years": [
+      2026,
+      2025,
+      2024,
+      2023,
+      2022
+    ]
+  },
+  {
+    "slug": "jitsi",
+    "name": "Jitsi",
+    "desc": "State-of-the-art video conferencing",
+    "img": "https://summerofcode.withgoogle.com/media/org/jitsi/p3456ygkk7vdq0or-360.png",
+    "years": [
+      2026,
+      2025,
+      2024,
+      2022
+    ]
+  },
+  {
+    "slug": "joomla",
+    "name": "Joomla!",
+    "desc": "The flexible platform empowering website creators.",
+    "img": "https://summerofcode.withgoogle.com/media/org/joomla/dwntn9vfd52jkr9z.png",
+    "years": [
+      2026,
+      2025,
+      2022
+    ]
+  },
+  {
+    "slug": "joplin",
+    "name": "Joplin",
+    "desc": "The secure note taking application",
+    "img": "https://summerofcode.withgoogle.com/media/org/joplin/0b4z6iftngd1afrp-360.png",
+    "years": [
+      2026,
+      2024,
+      2022
+    ]
+  },
+  {
+    "slug": "json-schema",
+    "name": "JSON Schema",
+    "desc": "We enable the reliable use of JSON data format.",
+    "img": "https://summerofcode.withgoogle.com/media/org/json-schema/d3qfjxegxnlrfysi.png",
+    "years": [
+      2026,
+      2025,
+      2024
+    ]
+  },
+  {
+    "slug": "kde-community",
+    "name": "KDE Community",
+    "desc": "Control your digital life",
+    "img": "https://summerofcode.withgoogle.com/media/org/kde-community/1mbnnsqwd2ejcmy8-360.png",
+    "years": [
+      2026,
+      2025,
+      2024,
+      2023,
+      2022
+    ]
+  },
+  {
+    "slug": "kiwix",
+    "name": "Kiwix",
+    "desc": "Internet content available offline.",
+    "img": "https://summerofcode.withgoogle.com/media/org/kiwix/b6zuffwiyoulh0ku-360.png",
+    "years": [
+      2026,
+      2025,
+      2024,
+      2023
+    ]
+  },
+  {
+    "slug": "kolibrios-project-team",
+    "name": "KolibriOS Project Team",
+    "desc": "A tiny and fast operating system in fasm",
+    "img": "https://summerofcode.withgoogle.com/media/org/kolibrios-project-team/mrtxpzuxixjqff62-360.png",
+    "years": [
+      2026,
+      2024
+    ]
+  },
+  {
+    "slug": "konflux",
+    "name": "Konflux",
+    "desc": "Secure software pipelines, the K8s way",
+    "img": "https://summerofcode.withgoogle.com/media/org/konflux/7znpk8j83biro6rn.png",
+    "years": [
+      2026
+    ]
+  },
+  {
+    "slug": "kornia",
+    "name": "Kornia",
+    "desc": "Advancing Computer Vision & Spatial AI, Openly",
+    "img": "https://summerofcode.withgoogle.com/media/org/kornia/p4e366l478clqvvg-360.png",
+    "years": [
+      2026,
+      2025
+    ]
+  },
+  {
+    "slug": "kotlin-foundation",
+    "name": "Kotlin Foundation",
+    "desc": "Advance the Kotlin programming language",
+    "img": "https://summerofcode.withgoogle.com/media/org/kotlin-foundation/2wyghqyy8nvvl4cq-360.png",
+    "years": [
+      2026,
+      2025,
+      2024,
+      2023
+    ]
+  },
+  {
+    "slug": "kubeflow",
+    "name": "Kubeflow",
+    "desc": "The Machine Learning Toolkit for Kubernetes (AI)",
+    "img": "https://summerofcode.withgoogle.com/media/org/kubeflow/uqphmd1y7opxpjim-360.png",
+    "years": [
+      2026,
+      2025,
+      2024
+    ]
+  },
+  {
+    "slug": "kubevirt",
+    "name": "KubeVirt",
+    "desc": "Building a virtualization API for Kubernetes",
+    "img": "https://summerofcode.withgoogle.com/media/org/kubevirt/pqdi8ojm0atxoo1s-360.png",
+    "years": [
+      2026,
+      2025,
+      2024,
+      2023
+    ]
+  },
+  {
+    "slug": "lablua",
+    "name": "LabLua",
+    "desc": "Programming Language Research with emphasis on Lua",
+    "img": "https://summerofcode.withgoogle.com/media/org/lablua/thpyrwywpx4z6p6s.png",
+    "years": [
+      2026,
+      2025,
+      2024
+    ]
+  },
+  {
+    "slug": "learning-equality",
+    "name": "Learning Equality",
+    "desc": "Building equity in education to transform lives",
+    "img": "https://summerofcode.withgoogle.com/media/org/learning-equality/iptmmzjiktknrg9p-360.png",
+    "years": [
+      2026,
+      2025,
+      2024,
+      2023,
+      2022
+    ]
+  },
+  {
+    "slug": "learning-unlimited",
+    "name": "Learning Unlimited",
+    "desc": "Building excitement for teaching and learning",
+    "img": "https://summerofcode.withgoogle.com/media/org/learning-unlimited/prqi7cnmji8guahm-360.png",
+    "years": [
+      2026
+    ]
+  },
+  {
+    "slug": "librecube-initiative",
+    "name": "LibreCube Initiative",
+    "desc": "Open Source Space Exploration",
+    "img": "https://summerofcode.withgoogle.com/media/org/librecube-initiative/zkfjswciuihmdxu1-360.png",
+    "years": [
+      2026,
+      2024,
+      2022
+    ]
+  },
+  {
+    "slug": "librehealth",
+    "name": "LibreHealth",
+    "desc": "Healthcare for Humanity",
+    "img": "https://summerofcode.withgoogle.com/media/org/librehealth/wulnuhdjtsi0ngiv-360.png",
+    "years": [
+      2026,
+      2023,
+      2022
+    ]
+  },
+  {
+    "slug": "libreoffice",
+    "name": "LibreOffice",
+    "desc": "LibreOffice is a free and open source office suite",
+    "img": "https://summerofcode.withgoogle.com/media/org/libreoffice/3g60m1gvsyzwzvvk-360.png",
+    "years": [
+      2026,
+      2025,
+      2024,
+      2023,
+      2022
+    ]
+  },
+  {
+    "slug": "libssh",
+    "name": "libssh",
+    "desc": "The SSH library",
+    "img": "https://summerofcode.withgoogle.com/media/org/libssh/kcfc8lhxh3uyozbu-360.png",
+    "years": [
+      2026,
+      2025,
+      2024,
+      2023,
+      2022
+    ]
+  },
+  {
+    "slug": "liquid-galaxy-project",
+    "name": "Liquid Galaxy project",
+    "desc": "We code immersive and interactive apps with GEarth",
+    "img": "https://summerofcode.withgoogle.com/media/org/liquid-galaxy-project/idbd8hebl6j7ajxn-360.png",
+    "years": [
+      2026,
+      2025,
+      2024,
+      2023,
+      2022
+    ]
+  },
+  {
+    "slug": "llvm-compiler-infrastructure",
+    "name": "LLVM Compiler Infrastructure",
+    "desc": "LLVM Compiler Infrastructure",
+    "img": "https://summerofcode.withgoogle.com/media/org/llvm-compiler-infrastructure/ize6lrlftlvdxtqe-360.png",
+    "years": [
+      2026,
+      2025,
+      2024,
+      2023,
+      2022
+    ]
+  },
+  {
+    "slug": "machine-learning-for-science-ml4sci",
+    "name": "Machine Learning for Science (ML4SCI)",
+    "desc": "Machine learning applications in science",
+    "img": "https://summerofcode.withgoogle.com/media/org/machine-learning-for-science-ml4sci/rs5cxhuyh9dpwekt-360.png",
+    "years": [
+      2026,
+      2025,
+      2024,
+      2023,
+      2022
+    ]
+  },
+  {
+    "slug": "malariagen",
+    "name": "MalariaGEN",
+    "desc": "The Malaria Genomic Epidemiology Network",
+    "img": "https://summerofcode.withgoogle.com/media/org/malariagen/8dgzolp37fdiwm5h-360.png",
+    "years": [
+      2026
+    ]
+  },
+  {
+    "slug": "mariadb",
+    "name": "MariaDB",
+    "desc": "The fastest growing Open Source Database",
+    "img": "https://summerofcode.withgoogle.com/media/org/mariadb/0nbzguld3ntsgeqv-360.png",
+    "years": [
+      2026,
+      2025,
+      2024,
+      2023,
+      2022
+    ]
+  },
+  {
+    "slug": "mdanalysis",
+    "name": "MDAnalysis",
+    "desc": "Analysis of molecular simulations data with Python",
+    "img": "https://summerofcode.withgoogle.com/media/org/mdanalysis/kf8rugznsqeskumi-360.png",
+    "years": [
+      2026,
+      2025,
+      2024,
+      2023,
+      2022
+    ]
+  },
+  {
+    "slug": "meshery",
+    "name": "Meshery",
+    "desc": "the extensible, collaborative, Kubernetes manager",
+    "img": "https://summerofcode.withgoogle.com/media/org/meshery/4ywkbdszwd1sw2rq-360.png",
+    "years": [
+      2026,
+      2025
+    ]
+  },
+  {
+    "slug": "metabrainz-foundation-inc",
+    "name": "MetaBrainz Foundation Inc",
+    "desc": "Open music / book metadata, music recommendations",
+    "img": "https://summerofcode.withgoogle.com/media/org/metabrainz-foundation-inc/m7lax42edddowwnl-360.png",
+    "years": [
+      2026,
+      2025,
+      2024,
+      2023,
+      2022
+    ]
+  },
+  {
+    "slug": "metacall",
+    "name": "MetaCall",
+    "desc": "Simplifying the embedding of programming languages",
+    "img": "https://summerofcode.withgoogle.com/media/org/metacall/rezoq3uue7dpdzw5-360.png",
+    "years": [
+      2026,
+      2024,
+      2023,
+      2022
+    ]
+  },
+  {
+    "slug": "metaflow",
+    "name": "Metaflow",
+    "desc": "A human centric machine learning framework",
+    "img": "https://summerofcode.withgoogle.com/media/org/metaflow/lxpx64opqtnss7yx-360.png",
+    "years": [
+      2026
+    ]
+  },
+  {
+    "slug": "metasploit",
+    "name": "Metasploit",
+    "desc": "World’s most used penetration testing framework",
+    "img": "https://summerofcode.withgoogle.com/media/org/metasploit/ggisatrqgjavuwd7-360.png",
+    "years": [
+      2026,
+      2023,
+      2022
+    ]
+  },
+  {
+    "slug": "mit-app-inventor",
+    "name": "MIT App Inventor",
+    "desc": "Anyone can build apps with global impact",
+    "img": "https://summerofcode.withgoogle.com/media/org/mit-app-inventor/8ppq0spvr3j3gx8q-360.png",
+    "years": [
+      2026,
+      2025,
+      2024,
+      2023,
+      2022
+    ]
+  },
+  {
+    "slug": "mixxx",
+    "name": "Mixxx",
+    "desc": "DJ Mixing App With Powerful Features For All DJs",
+    "img": "https://summerofcode.withgoogle.com/media/org/mixxx/ivlj1kl8jabpmfs9-360.png",
+    "years": [
+      2026,
+      2025,
+      2024,
+      2022
+    ]
+  },
+  {
+    "slug": "mllam",
+    "name": "MLLAM",
+    "desc": "Research software for AI weather forecasting",
+    "img": "https://summerofcode.withgoogle.com/media/org/mllam/ltm3mtlosvdcrw0c.png",
+    "years": [
+      2026
+    ]
+  },
+  {
+    "slug": "mofa-org",
+    "name": "MoFA Org",
+    "desc": "Empower extraordinary with Composition AI",
+    "img": "https://summerofcode.withgoogle.com/media/org/mofa-org/fa7e34trht3ou7yo-360.png",
+    "years": [
+      2026
+    ]
+  },
+  {
+    "slug": "moganlab",
+    "name": "MoganLab",
+    "desc": "Make acedemic writing as nature as breathing",
+    "img": "https://summerofcode.withgoogle.com/media/org/moganlab/tuz5k2kmoivlkods-360.png",
+    "years": [
+      2026
+    ]
+  },
+  {
+    "slug": "national-resource-for-network-biology-nrnb",
+    "name": "National Resource for Network Biology (NRNB)",
+    "desc": "Developing open source tools for network biology",
+    "img": "https://summerofcode.withgoogle.com/media/org/national-resource-for-network-biology-nrnb/5uobjboaxnzrxyoj-360.png",
+    "years": [
+      2026,
+      2025,
+      2024,
+      2023,
+      2022
+    ]
+  },
+  {
+    "slug": "neovim",
+    "name": "Neovim",
+    "desc": "hyperextensible Vim-based text editor",
+    "img": "https://summerofcode.withgoogle.com/media/org/neovim/wsjrusphcrjmo5tf-360.png",
+    "years": [
+      2026,
+      2025
+    ]
+  },
+  {
+    "slug": "neuroinformatics-unit",
+    "name": "Neuroinformatics Unit",
+    "desc": "Open-source tools for neuroscience and ML",
+    "img": "https://summerofcode.withgoogle.com/media/org/neuroinformatics-unit/ebzgcbxkxvbe9igk.png",
+    "years": [
+      2026,
+      2025
+    ]
+  },
+  {
+    "slug": "neutralinojs",
+    "name": "Neutralinojs",
+    "desc": "Lightweight cross-platform desktop app framework",
+    "img": "https://summerofcode.withgoogle.com/media/org/neutralinojs/thloxs47w1aa1uts-360.png",
+    "years": [
+      2026,
+      2024,
+      2022
+    ]
+  },
+  {
+    "slug": "nixos-foundation",
+    "name": "NixOS Foundation",
+    "desc": "Declarative builds and deployments",
+    "img": "https://summerofcode.withgoogle.com/media/org/nixos-foundation/kvnnwp7viwupdsep.png",
+    "years": [
+      2026,
+      2024
+    ]
+  },
+  {
+    "slug": "numfocus",
+    "name": "NumFOCUS",
+    "desc": "NumFOCUS promotes open source scientific software.",
+    "img": "https://summerofcode.withgoogle.com/media/org/numfocus/wimcwc2v6kjlidqc-360.png",
+    "years": [
+      2026,
+      2025,
+      2024,
+      2023,
+      2022
+    ]
+  },
+  {
+    "slug": "omegaup",
+    "name": "omegaUp",
+    "desc": "Open CS Education as a catalyst for social change",
+    "img": "https://summerofcode.withgoogle.com/media/org/omegaup/uvgilx7vyspavjox-360.png",
+    "years": [
+      2026,
+      2025,
+      2024,
+      2023,
+      2022
+    ]
+  },
+  {
+    "slug": "open-food-facts",
+    "name": "Open Food Facts",
+    "desc": "Better food choices for your health & the planet",
+    "img": "https://summerofcode.withgoogle.com/media/org/open-food-facts/ypo4wfmbo5ueujuf-360.png",
+    "years": [
+      2026,
+      2025,
+      2022
+    ]
+  },
+  {
+    "slug": "open-genome-informatics",
+    "name": "Open Genome Informatics",
+    "desc": "Open access genomics and bioinformatics projects",
+    "img": "https://summerofcode.withgoogle.com/media/org/open-genome-informatics/p6nhalhjwargwd5s-360.png",
+    "years": [
+      2026,
+      2023,
+      2022
+    ]
+  },
+  {
+    "slug": "open-healthcare-network",
+    "name": "Open HealthCare Network",
+    "desc": "Reimagining Healthcare Delivery",
+    "img": "https://summerofcode.withgoogle.com/media/org/open-healthcare-network/eutslgqeknc9vlgd-360.png",
+    "years": [
+      2026,
+      2025,
+      2024
+    ]
+  },
+  {
+    "slug": "open-robotics",
+    "name": "Open Robotics",
+    "desc": "Open source robotics and a whole lot more!",
+    "img": "https://summerofcode.withgoogle.com/media/org/open-robotics/6pg3nwfpieq1qmqw-360.png",
+    "years": [
+      2026,
+      2025,
+      2024,
+      2023,
+      2022
+    ]
+  },
+  {
+    "slug": "open-science-initiative-for-perfusion-imaging",
+    "name": "Open Science Initiative for Perfusion Imaging",
+    "desc": "Open access resources for perfusion imaging",
+    "img": "https://summerofcode.withgoogle.com/media/org/open-science-initiative-for-perfusion-imaging/bxlqptrs5g0ovtqz-360.png",
+    "years": [
+      2026,
+      2025,
+      2024
+    ]
+  },
+  {
+    "slug": "open-science-labs",
+    "name": "Open Science Labs",
+    "desc": "The community open to science and technology.",
+    "img": "https://summerofcode.withgoogle.com/media/org/open-science-labs/rjv8l7mrkiwlv9ab-360.png",
+    "years": [
+      2026,
+      2025
+    ]
+  },
+  {
+    "slug": "open-technologies-alliance-gfoss",
+    "name": "Open Technologies Alliance - GFOSS",
+    "desc": "Promote Open Standards and Open Source",
+    "img": "https://summerofcode.withgoogle.com/media/org/open-technologies-alliance-gfoss/kiyijull8pfdypve-360.png",
+    "years": [
+      2026,
+      2025,
+      2024,
+      2023,
+      2022
+    ]
+  },
+  {
+    "slug": "open-transit-software-foundation",
+    "name": "Open Transit Software Foundation",
+    "desc": "Help make public transit better",
+    "img": "https://summerofcode.withgoogle.com/media/org/open-transit-software-foundation/uz3p7k5vsxduhrhk-360.png",
+    "years": [
+      2026,
+      2025,
+      2024
+    ]
+  },
+  {
+    "slug": "openafs",
+    "name": "OpenAFS",
+    "desc": "An open source distributed filesystem.",
+    "img": "https://summerofcode.withgoogle.com/media/org/openafs/hhf0h2zemmqes7kt-360.png",
+    "years": [
+      2026,
+      2025,
+      2022
+    ]
+  },
+  {
+    "slug": "openastronomy",
+    "name": "OpenAstronomy",
+    "desc": "Look at the Universe with the power of Open Source",
+    "img": "https://summerofcode.withgoogle.com/media/org/openastronomy/3wvadxwxjc2arepg-360.png",
+    "years": [
+      2026,
+      2025,
+      2024,
+      2023,
+      2022
+    ]
+  },
+  {
+    "slug": "openelis-global",
+    "name": "OpenELIS Global",
+    "desc": "Empowering labs to Ensure Quality Health Care",
+    "img": "https://summerofcode.withgoogle.com/media/org/openelis-global/k6rnzk3hcktzabst-360.png",
+    "years": [
+      2026,
+      2025,
+      2024
+    ]
+  },
+  {
+    "slug": "openmrs",
+    "name": "OpenMRS",
+    "desc": "Write Code, Save Lives.",
+    "img": "https://summerofcode.withgoogle.com/media/org/openmrs/evthgp3dhsqx5kyx-360.png",
+    "years": [
+      2026,
+      2025,
+      2024,
+      2023,
+      2022
+    ]
+  },
+  {
+    "slug": "openms-inc",
+    "name": "OpenMS Inc",
+    "desc": "Advancing Algorithms & AI for Biomedical Insights",
+    "img": "https://summerofcode.withgoogle.com/media/org/openms-inc/qhamer7p2auro5cs-360.png",
+    "years": [
+      2026
+    ]
+  },
+  {
+    "slug": "openstreetmap",
+    "name": "OpenStreetMap",
+    "desc": "Create and distribute free geodata for the world",
+    "img": "https://summerofcode.withgoogle.com/media/org/openstreetmap/ihw4tczyumj0yx81-360.png",
+    "years": [
+      2026,
+      2025,
+      2024,
+      2023,
+      2022
+    ]
+  },
+  {
+    "slug": "opensuse-project",
+    "name": "openSUSE Project",
+    "desc": "Makers' choice for sysadmins, developers & users",
+    "img": "https://summerofcode.withgoogle.com/media/org/opensuse-project/zq11ebxj038xotbe-360.png",
+    "years": [
+      2026,
+      2025,
+      2024,
+      2023,
+      2022
+    ]
+  },
+  {
+    "slug": "openvino-toolkit",
+    "name": "OpenVINO Toolkit",
+    "desc": "Make AI inference faster and easier to deploy!",
+    "img": "https://summerofcode.withgoogle.com/media/org/openvino-toolkit/ivzvok335ujezk2z-360.png",
+    "years": [
+      2026,
+      2025,
+      2024,
+      2023,
+      2022
+    ]
+  },
+  {
+    "slug": "openwisp",
+    "name": "OpenWISP",
+    "desc": "The Hackable Network Management System",
+    "img": "https://summerofcode.withgoogle.com/media/org/openwisp/xgfy0r7femccwzvj-360.png",
+    "years": [
+      2026,
+      2025,
+      2024,
+      2023,
+      2022
+    ]
+  },
+  {
+    "slug": "oppia-foundation",
+    "name": "Oppia Foundation",
+    "desc": "Free platform for interactive, tutor-like lessons",
+    "img": "https://summerofcode.withgoogle.com/media/org/oppia-foundation/nqvgy9fm3aqshwtv-360.png",
+    "years": [
+      2026,
+      2025,
+      2024,
+      2023,
+      2022
+    ]
+  },
+  {
+    "slug": "osgeo-open-source-geospatial-foundation",
+    "name": "OSGeo (Open Source Geospatial Foundation)",
+    "desc": "The Open Source Geospatial Foundation",
+    "img": "https://summerofcode.withgoogle.com/media/org/osgeo-open-source-geospatial-foundation/yundulx00fbd1akm-360.png",
+    "years": [
+      2026,
+      2025,
+      2024,
+      2023,
+      2022
+    ]
+  },
+  {
+    "slug": "owasp-foundation",
+    "name": "OWASP Foundation",
+    "desc": "No more insecure software.",
+    "img": "https://summerofcode.withgoogle.com/media/org/owasp-foundation/haks8qbp0yvjvzge-360.png",
+    "years": [
+      2026,
+      2025,
+      2024,
+      2023,
+      2022
+    ]
+  },
+  {
+    "slug": "pecan-project",
+    "name": "PEcAn Project",
+    "desc": "Develop and promote tools for ecosystem modeling",
+    "img": "https://summerofcode.withgoogle.com/media/org/pecan-project/kijyzllr7r1g0ukz-360.png",
+    "years": [
+      2026,
+      2025,
+      2024,
+      2023,
+      2022
+    ]
+  },
+  {
+    "slug": "pharo-consortium",
+    "name": "Pharo Consortium",
+    "desc": "Modern and immersive programming language",
+    "img": "https://summerofcode.withgoogle.com/media/org/pharo-consortium/zrxygkl3ycuvw6nb-360.png",
+    "years": [
+      2026,
+      2025,
+      2023
+    ]
+  },
+  {
+    "slug": "postgresql",
+    "name": "PostgreSQL",
+    "desc": "The Most Advanced Open Source Relational Database",
+    "img": "https://summerofcode.withgoogle.com/media/org/postgresql/hj9srl9x0o6iendy-360.png",
+    "years": [
+      2026,
+      2025,
+      2024,
+      2023,
+      2022
+    ]
+  },
+  {
+    "slug": "precice",
+    "name": "preCICE",
+    "desc": "The coupling library for multi-physics simulations",
+    "img": "https://summerofcode.withgoogle.com/media/org/precice/19ymcw80uxn8g9ia-360.png",
+    "years": [
+      2026
+    ]
+  },
+  {
+    "slug": "processing-foundation",
+    "name": "Processing Foundation",
+    "desc": "To empower all people to learn to program",
+    "img": "https://summerofcode.withgoogle.com/media/org/processing-foundation/xr2sncljbvtlop1n-360.png",
+    "years": [
+      2026,
+      2025,
+      2023,
+      2022
+    ]
+  },
+  {
+    "slug": "project-mesa",
+    "name": "Project Mesa",
+    "desc": "Mesa: Agent-based modeling in Python 3+",
+    "img": "https://summerofcode.withgoogle.com/media/org/project-mesa/fh3o8surszufvjpv-360.png",
+    "years": [
+      2026,
+      2025,
+      2024
+    ]
+  },
+  {
+    "slug": "python-software-foundation",
+    "name": "Python Software Foundation",
+    "desc": "A programming language used for science & more",
+    "img": "https://summerofcode.withgoogle.com/media/org/python-software-foundation/2vpxhpvcsvgyx3kg-360.png",
+    "years": [
+      2026,
+      2025,
+      2024,
+      2023,
+      2022
+    ]
+  },
+  {
+    "slug": "qc-devs",
+    "name": "QC-Devs",
+    "desc": "Sustainable software for quantum chemistry & more",
+    "img": "https://summerofcode.withgoogle.com/media/org/qc-devs/nywcx8edxlpsz2kg-360.png",
+    "years": [
+      2026,
+      2025,
+      2024
+    ]
+  },
+  {
+    "slug": "qemu",
+    "name": "QEMU",
+    "desc": "Open source machine emulator and virtualizer",
+    "img": "https://summerofcode.withgoogle.com/media/org/qemu/gik5gsxljb3j1jx1-360.png",
+    "years": [
+      2026,
+      2025,
+      2023,
+      2022
+    ]
+  },
+  {
+    "slug": "qubes-os",
+    "name": "Qubes OS",
+    "desc": "A reasonably secure operating system",
+    "img": "https://summerofcode.withgoogle.com/media/org/qubes-os-f3/4hohuknku00cpaja-360.png",
+    "years": [
+      2026
+    ]
+  },
+  {
+    "slug": "r-project-for-statistical-computing",
+    "name": "R project for statistical computing",
+    "desc": "R software for statistical computing & graphics",
+    "img": "https://summerofcode.withgoogle.com/media/org/r-project-for-statistical-computing/7regeqcjh95nenso-360.png",
+    "years": [
+      2026,
+      2025,
+      2024,
+      2023,
+      2022
+    ]
+  },
+  {
+    "slug": "rizin",
+    "name": "Rizin",
+    "desc": "Rizin reverse engineering framework and toolset",
+    "img": "https://summerofcode.withgoogle.com/media/org/rizin/7ageygqfyv7wzlee-360.png",
+    "years": [
+      2026,
+      2025,
+      2024,
+      2023,
+      2022
+    ]
+  },
+  {
+    "slug": "rtems-project",
+    "name": "RTEMS Project",
+    "desc": "A real-time operating system for Earth & Space",
+    "img": "https://summerofcode.withgoogle.com/media/org/rtems-project/mgzdqflwj84er5ml-360.png",
+    "years": [
+      2026,
+      2025,
+      2024,
+      2023,
+      2022
+    ]
+  },
+  {
+    "slug": "ruby",
+    "name": "Ruby",
+    "desc": "Ruby is an object-oriented programming language",
+    "img": "https://summerofcode.withgoogle.com/media/org/ruby/dc6i7iw8w39rktw1-360.png",
+    "years": [
+      2026,
+      2023,
+      2022
+    ]
+  },
+  {
+    "slug": "sagemath",
+    "name": "SageMath",
+    "desc": "Open-source mathematics software system",
+    "img": "https://summerofcode.withgoogle.com/media/org/sagemath/1tcj7svgwadc13cj-360.png",
+    "years": [
+      2026,
+      2025,
+      2024,
+      2023,
+      2022
+    ]
+  },
+  {
+    "slug": "scummvm",
+    "name": "ScummVM",
+    "desc": "Adventure and RPG preservation project",
+    "img": "https://summerofcode.withgoogle.com/media/org/scummvm/bnok4srtehdy3fbj-360.png",
+    "years": [
+      2026,
+      2025,
+      2024,
+      2023,
+      2022
+    ]
+  },
+  {
+    "slug": "stdlib",
+    "name": "stdlib",
+    "desc": "The fundamental numerical library for JavaScript",
+    "img": "https://summerofcode.withgoogle.com/media/org/stdlib/7ornclj6w5zz9fca-360.png",
+    "years": [
+      2026,
+      2025,
+      2024
+    ]
+  },
+  {
+    "slug": "stichting-su2",
+    "name": "Stichting SU2",
+    "desc": "Computational Fluid Dynamics and Optimization",
+    "img": "https://summerofcode.withgoogle.com/media/org/stichting-su2/vexbqtmew7yd92hp-360.png",
+    "years": [
+      2026,
+      2025,
+      2024
+    ]
+  },
+  {
+    "slug": "submitty",
+    "name": "Submitty",
+    "desc": "Homework Autograding and Course Management Tools",
+    "img": "https://summerofcode.withgoogle.com/media/org/submitty/jlpoxlj2rvpot6zv-360.png",
+    "years": [
+      2026,
+      2024,
+      2023,
+      2022
+    ]
+  },
+  {
+    "slug": "sugar-labs",
+    "name": "Sugar Labs",
+    "desc": "Learning software for children",
+    "img": "https://summerofcode.withgoogle.com/media/org/sugar-labs/pgbt7fp6gr6lhihd-360.png",
+    "years": [
+      2026,
+      2025,
+      2024,
+      2023,
+      2022
+    ]
+  },
+  {
+    "slug": "sw360",
+    "name": "SW360",
+    "desc": "Software supply chain management done right !",
+    "img": "https://summerofcode.withgoogle.com/media/org/sw360/scylub8cx6f9mkzk-360.png",
+    "years": [
+      2026,
+      2025
+    ]
+  },
+  {
+    "slug": "swift",
+    "name": "Swift",
+    "desc": "Fast, safe, and expressive programming language",
+    "img": "https://summerofcode.withgoogle.com/media/org/swift/moutmu5fv3rozvrz-360.png",
+    "years": [
+      2026,
+      2025,
+      2024,
+      2023,
+      2022
+    ]
+  },
+  {
+    "slug": "sympy",
+    "name": "SymPy",
+    "desc": "SymPy is a Python library for symbolic mathematics",
+    "img": "https://summerofcode.withgoogle.com/media/org/sympy/iz2tcxocrknp1sm0-360.png",
+    "years": [
+      2026,
+      2025,
+      2024,
+      2023,
+      2022
+    ]
+  },
+  {
+    "slug": "synfig",
+    "name": "Synfig",
+    "desc": "Open-source 2D animation software",
+    "img": "https://summerofcode.withgoogle.com/media/org/synfig/ohcj3eigerib4jym-360.png",
+    "years": [
+      2026,
+      2025,
+      2024,
+      2023,
+      2022
+    ]
+  },
+  {
+    "slug": "tardis-rt-collaboration",
+    "name": "TARDIS RT Collaboration",
+    "desc": "Exploring supernovae made easy",
+    "img": "https://summerofcode.withgoogle.com/media/org/tardis-rt-collaboration/0ocxr3jw3fwdloye-360.png",
+    "years": [
+      2026,
+      2025,
+      2024,
+      2023,
+      2022
+    ]
+  },
+  {
+    "slug": "the-freebsd-project",
+    "name": "The FreeBSD Project",
+    "desc": "An OS for servers to embedded devices",
+    "img": "https://summerofcode.withgoogle.com/media/org/the-freebsd-project/4jmspor6mcto9wti-360.png",
+    "years": [
+      2026,
+      2025,
+      2024,
+      2023,
+      2022
+    ]
+  },
+  {
+    "slug": "the-honeynet-project",
+    "name": "The Honeynet Project",
+    "desc": "Honeypots and Threat Intelligence R&D",
+    "img": "https://summerofcode.withgoogle.com/media/org/the-honeynet-project/pvycoc21p2ketj7b-360.png",
+    "years": [
+      2026,
+      2025,
+      2024,
+      2023,
+      2022
+    ]
+  },
+  {
+    "slug": "the-jpf-team",
+    "name": "The JPF team",
+    "desc": "JPF is a Java VM used to verify and debug software",
+    "img": "https://summerofcode.withgoogle.com/media/org/the-jpf-team-hg/rvqtnz4hyojrfgvw.png",
+    "years": [
+      2026,
+      2025,
+      2024,
+      2023,
+      2022
+    ]
+  },
+  {
+    "slug": "the-julia-language",
+    "name": "The Julia Language",
+    "desc": "A fresh approach to technical computing",
+    "img": "https://summerofcode.withgoogle.com/media/org/the-julia-language/49fck3n7j5aqnpwu-360.png",
+    "years": [
+      2026,
+      2025,
+      2024,
+      2023,
+      2022
+    ]
+  },
+  {
+    "slug": "the-libreswan-project",
+    "name": "The Libreswan Project",
+    "desc": "Encrypting the Internet with IKE / IPsec VPN",
+    "img": "https://summerofcode.withgoogle.com/media/org/the-libreswan-project/k7boxaxvirkfj1ti-360.png",
+    "years": [
+      2026
+    ]
+  },
+  {
+    "slug": "the-linux-foundation",
+    "name": "The Linux Foundation",
+    "desc": "Non-profit consortium fostering growth of Linux",
+    "img": "https://summerofcode.withgoogle.com/media/org/the-linux-foundation/ydeu9rliawhe6of9-360.png",
+    "years": [
+      2026,
+      2025,
+      2024,
+      2023,
+      2022
+    ]
+  },
+  {
+    "slug": "the-mifos-initiative",
+    "name": "The Mifos Initiative",
+    "desc": "End Poverty One Line of Code at a Time",
+    "img": "https://summerofcode.withgoogle.com/media/org/the-mifos-initiative/etmiqn0lkvfxvm5p-360.png",
+    "years": [
+      2026,
+      2025,
+      2024,
+      2023,
+      2022
+    ]
+  },
+  {
+    "slug": "the-netbsd-foundation",
+    "name": "The NetBSD Foundation",
+    "desc": "Of course it runs NetBSD",
+    "img": "https://summerofcode.withgoogle.com/media/org/the-netbsd-foundation/gi3vozsqpecopqku-360.png",
+    "years": [
+      2026,
+      2025,
+      2024,
+      2023,
+      2022
+    ]
+  },
+  {
+    "slug": "the-ns-3-network-simulator-project",
+    "name": "The ns-3 Network Simulator Project",
+    "desc": "ns-3 is a simulation tool for computer networks.",
+    "img": "https://summerofcode.withgoogle.com/media/org/the-ns-3-network-simulator-project/0zmaec44y4jcfuj2-360.png",
+    "years": [
+      2026,
+      2025,
+      2024,
+      2023,
+      2022
+    ]
+  },
+  {
+    "slug": "the-openroad-initiative",
+    "name": "The OpenROAD Initiative",
+    "desc": "Collaboratively building an OpenROAD ecosystem",
+    "img": "https://summerofcode.withgoogle.com/media/org/the-openroad-initiative/wsxrroe08v4rdaga-360.png",
+    "years": [
+      2026
+    ]
+  },
+  {
+    "slug": "the-p4-language-consortium",
+    "name": "The P4 Language Consortium",
+    "desc": "Evolve the programmable data plane ecosystem!",
+    "img": "https://summerofcode.withgoogle.com/media/org/the-p4-language-consortium/tru8mncy4zqlbxhe.png",
+    "years": [
+      2026,
+      2025,
+      2024
+    ]
+  },
+  {
+    "slug": "the-rust-foundation",
+    "name": "The Rust Foundation",
+    "desc": "A language empowering everyone",
+    "img": "https://summerofcode.withgoogle.com/media/org/the-rust-foundation/pplrhxvka7dufvsn.png",
+    "years": [
+      2026,
+      2025,
+      2024
+    ]
+  },
+  {
+    "slug": "tiled",
+    "name": "Tiled",
+    "desc": "A flexible level editor for everyone!",
+    "img": "https://summerofcode.withgoogle.com/media/org/tiled/bat2ba3t9fujdzyn-360.png",
+    "years": [
+      2026
+    ]
+  },
+  {
+    "slug": "typelevel",
+    "name": "Typelevel",
+    "desc": "We do functional programming together",
+    "img": "https://summerofcode.withgoogle.com/media/org/typelevel/hxlcctbqekguxcxx.png",
+    "years": [
+      2026,
+      2025
+    ]
+  },
+  {
+    "slug": "uc-ospo",
+    "name": "UC OSPO",
+    "desc": "Amplifying Research Impact through Open Source",
+    "img": "https://summerofcode.withgoogle.com/media/org/center-for-research-in-open-source-software-cross/ndbkr7fqcqp4nguq-360.png",
+    "years": [
+      2026,
+      2025,
+      2024,
+      2023,
+      2022
+    ]
+  },
+  {
+    "slug": "unikraft",
+    "name": "Unikraft",
+    "desc": "A Fast and Secure Unikernel SDK",
+    "img": "https://summerofcode.withgoogle.com/media/org/unikraft/5nx7anuq3iixdm54.png",
+    "years": [
+      2026,
+      2025,
+      2024,
+      2023,
+      2022
+    ]
+  },
+  {
+    "slug": "united-nations-office-of-information-communication-technology",
+    "name": "United Nations Office of Information Communication Technology",
+    "desc": "Sustainable future through innovative technology.",
+    "img": "https://summerofcode.withgoogle.com/media/org/united-nations-office-of-information-communication-technology/bl0zv6y6mjmzuybz-360.png",
+    "years": [
+      2026
+    ]
+  },
+  {
+    "slug": "uramaki-lab",
+    "name": "Uramaki LAB",
+    "desc": "The User Experience LAB based on IA",
+    "img": "https://summerofcode.withgoogle.com/media/org/uramaki-lab/pr3ivuk0zg7lhgj1-360.png",
+    "years": [
+      2026,
+      2025,
+      2024
+    ]
+  },
+  {
+    "slug": "videolan",
+    "name": "VideoLAN",
+    "desc": "Open Source Multimedia for everyone!",
+    "img": "https://summerofcode.withgoogle.com/media/org/videolan/9h28hsncvrt01voz-360.png",
+    "years": [
+      2026,
+      2025,
+      2024,
+      2023,
+      2022
+    ]
+  },
+  {
+    "slug": "wagtail",
+    "name": "Wagtail",
+    "desc": "The powerful Python CMS for modern websites",
+    "img": "https://summerofcode.withgoogle.com/media/org/wagtail/so6hnqeqh2cp4jbx-360.png",
+    "years": [
+      2026,
+      2025,
+      2024,
+      2023,
+      2022
+    ]
+  },
+  {
+    "slug": "webpack",
+    "name": "webpack",
+    "desc": "webpack is the module bundler for web projects",
+    "img": "https://summerofcode.withgoogle.com/media/org/webpack/bb5phgrkm0y4op3e-360.png",
+    "years": [
+      2026,
+      2025,
+      2024
+    ]
+  },
+  {
+    "slug": "wikimedia-foundation",
+    "name": "Wikimedia Foundation",
+    "desc": "Bringing free educational content to the world",
+    "img": "https://summerofcode.withgoogle.com/media/org/wikimedia-foundation-nd/2e6sdwa8tksr5sg2-360.png",
+    "years": [
+      2026,
+      2024,
+      2023,
+      2022
+    ]
+  },
+  {
+    "slug": "zulip",
+    "name": "Zulip",
+    "desc": "Organized chat for distributed teams",
+    "img": "https://summerofcode.withgoogle.com/media/org/zulip/sx5ruvwv6nyugbk7-360.png",
+    "years": [
+      2026,
+      2025,
+      2024,
+      2023,
+      2022
+    ]
+  },
+  {
+    "slug": "52north-spatial-information-research-gmbh",
+    "name": "52°North Spatial Information Research GmbH",
+    "desc": "Innovative ideas & technologies in geoinformatics",
+    "img": "https://summerofcode.withgoogle.com/media/org/52north-spatial-information-research-gmbh/gzamo2sqfwcmcobt-360.png",
+    "years": [
+      2025,
+      2024,
+      2023,
+      2022
+    ]
+  },
+  {
+    "slug": "aflplusplus",
+    "name": "AFLplusplus",
+    "desc": "State of the art fuzzing for better security",
+    "img": "https://summerofcode.withgoogle.com/media/org/aflplusplus/dw8yelaswljerorz-360.png",
+    "years": [
+      2025,
+      2024,
+      2023,
+      2022
+    ]
+  },
+  {
+    "slug": "apache-datafusion",
+    "name": "Apache DataFusion",
+    "desc": "Foundational library for DBs and compute engines",
+    "img": "https://summerofcode.withgoogle.com/media/org/apache-datafusion/tqdstft3qk2yleu9-360.png",
+    "years": [
+      2025
+    ]
+  },
+  {
+    "slug": "asyncapi",
+    "name": "AsyncAPI",
+    "desc": "Building the future of Event-Driven Architectures",
+    "img": "https://summerofcode.withgoogle.com/media/org/asyncapi/gmnlfvngjaqxjxio.png",
+    "years": [
+      2025,
+      2024
+    ]
+  },
+  {
+    "slug": "beagleboardorg",
+    "name": "BeagleBoard.org",
+    "desc": "Open hardware computing for educators and makers",
+    "img": "https://summerofcode.withgoogle.com/media/org/beagleboardorg/4w6td6bjy31ei9v2-360.png",
+    "years": [
+      2025,
+      2024,
+      2023,
+      2022
+    ]
+  },
+  {
+    "slug": "center-for-translational-data-science",
+    "name": "Center for Translational Data Science",
+    "desc": "Develop translational data science.",
+    "img": "https://summerofcode.withgoogle.com/media/org/center-for-translational-data-science/bc61hj7tocvmpw6p-360.png",
+    "years": [
+      2025,
+      2022
+    ]
+  },
+  {
+    "slug": "chaoss",
+    "name": "CHAOSS",
+    "desc": "Community Health Analytics Open Source Software",
+    "img": "https://summerofcode.withgoogle.com/media/org/chaoss/omnpzqtoqzjmesi7-360.png",
+    "years": [
+      2025,
+      2022
+    ]
+  },
+  {
+    "slug": "checker-framework",
+    "name": "Checker Framework",
+    "desc": "Prevent programming errors via simple verification",
+    "img": "https://summerofcode.withgoogle.com/media/org/checker-framework/zgooweugtqicf1jx-360.png",
+    "years": [
+      2025
+    ]
+  },
+  {
+    "slug": "chromium",
+    "name": "Chromium",
+    "desc": "Fast, seamless, safe, and reliable web for all",
+    "img": "https://summerofcode.withgoogle.com/media/org/chromium-lj/qiwhezblvq2a0jgc-360.png",
+    "years": [
+      2025,
+      2024,
+      2023,
+      2022
+    ]
+  },
+  {
+    "slug": "circuitverseorg",
+    "name": "CircuitVerse.org",
+    "desc": "Build and learn logic circuits in the cloud!",
+    "img": "https://summerofcode.withgoogle.com/media/org/circuitverseorg/rxan5pn96f3m4yfu-360.png",
+    "years": [
+      2025,
+      2024,
+      2023,
+      2022
+    ]
+  },
+  {
+    "slug": "cloudcv",
+    "name": "CloudCV",
+    "desc": "Building platforms for reproducible AI Research",
+    "img": "https://summerofcode.withgoogle.com/media/org/cloudcv/mxq9gvskhg4i5lyw-360.png",
+    "years": [
+      2025,
+      2024,
+      2023
+    ]
+  },
+  {
+    "slug": "department-of-biomedical-informatics-emory-university",
+    "name": "Department of Biomedical Informatics, Emory University",
+    "desc": "Biomedical research to advance healthcare",
+    "img": "https://summerofcode.withgoogle.com/media/org/department-of-biomedical-informatics-emory-university/l9jrm7pdhwnkxh3b-360.png",
+    "years": [
+      2025,
+      2024,
+      2023,
+      2022
+    ]
+  },
+  {
+    "slug": "electron",
+    "name": "Electron",
+    "desc": "Cross-platform desktop apps with web technologies",
+    "img": "https://summerofcode.withgoogle.com/media/org/electron/vchyhnp6rhabucgj-360.png",
+    "years": [
+      2025,
+      2024,
+      2022
+    ]
+  },
+  {
+    "slug": "fedora-project",
+    "name": "Fedora Project",
+    "desc": "Freedom, Friends, Features, and First.",
+    "img": "https://summerofcode.withgoogle.com/media/org/fedora-project/shb5orpvxtdcerqq-360.png",
+    "years": [
+      2025
+    ]
+  },
+  {
+    "slug": "freifunk",
+    "name": "freifunk",
+    "desc": "Free and open wireless networks",
+    "img": "https://summerofcode.withgoogle.com/media/org/freifunk/bpcbaeecusvfzbzk-360.png",
+    "years": [
+      2025,
+      2024,
+      2023,
+      2022
+    ]
+  },
+  {
+    "slug": "gitlab",
+    "name": "GitLab",
+    "desc": "Everyone can contribute",
+    "img": "https://summerofcode.withgoogle.com/media/org/gitlab/mfhpav5dgegzwg8z-360.png",
+    "years": [
+      2025,
+      2023,
+      2022
+    ]
+  },
+  {
+    "slug": "gnss-sdr",
+    "name": "GNSS-SDR",
+    "desc": "An open source GNSS software-defined receiver",
+    "img": "https://summerofcode.withgoogle.com/media/org/gnss-sdr/vaciksjfho8cec2g-360.png",
+    "years": [
+      2025,
+      2024,
+      2022
+    ]
+  },
+  {
+    "slug": "google-deepmind",
+    "name": "Google DeepMind",
+    "desc": "Google DeepMind's open-source projects",
+    "img": "https://summerofcode.withgoogle.com/media/org/google-deepmind-sq/cmdhldmexaj4kpms-360.png",
+    "years": [
+      2025
+    ]
+  },
+  {
+    "slug": "haskellorg",
+    "name": "Haskell.org",
+    "desc": "Purely functional programming language",
+    "img": "https://summerofcode.withgoogle.com/media/org/haskellorg/ivy7hfguqhoz8onp-360.png",
+    "years": [
+      2025,
+      2024,
+      2022
+    ]
+  },
+  {
+    "slug": "inkscape",
+    "name": "Inkscape",
+    "desc": "Draw freely!",
+    "img": "https://summerofcode.withgoogle.com/media/org/inkscape/qiomrjtmocpmomjf-360.png",
+    "years": [
+      2025,
+      2024,
+      2023,
+      2022
+    ]
+  },
+  {
+    "slug": "internet-health-report",
+    "name": "Internet Health Report",
+    "desc": "Monitoring the Internet",
+    "img": "https://summerofcode.withgoogle.com/media/org/internet-health-report/lifcnmh2qkq9cl5o-360.png",
+    "years": [
+      2025,
+      2024,
+      2023,
+      2022
+    ]
+  },
+  {
+    "slug": "jabref-ev",
+    "name": "JabRef e.V.",
+    "desc": "Stay on top of your Literature",
+    "img": "https://summerofcode.withgoogle.com/media/org/jabref-ev/ylevworrwqf9bw9g-360.png",
+    "years": [
+      2025,
+      2024,
+      2022
+    ]
+  },
+  {
+    "slug": "jax-and-keras",
+    "name": "JAX and Keras",
+    "desc": "Python libraries for large-scale machine learning",
+    "img": "https://summerofcode.withgoogle.com/media/org/jax-and-keras/7czut6i8nmxbyzkp-360.png",
+    "years": [
+      2025
+    ]
+  },
+  {
+    "slug": "keploy",
+    "name": "Keploy",
+    "desc": "Unit, API test generation agent using AI & EBPF",
+    "img": "https://summerofcode.withgoogle.com/media/org/keploy/txoec8qr8fyegtmv-360.png",
+    "years": [
+      2025,
+      2024,
+      2023
+    ]
+  },
+  {
+    "slug": "kro-kube-resource-orchestrator",
+    "name": "kro | Kube Resource Orchestrator",
+    "desc": "Simplify Kubernetes API and resource management.",
+    "img": "https://summerofcode.withgoogle.com/media/org/kro-kube-resource-orchestrator/qf9flxp0iswvhnli-360.png",
+    "years": [
+      2025
+    ]
+  },
+  {
+    "slug": "mbdyn",
+    "name": "MBDyn",
+    "desc": "Open Source Multibody Simulation",
+    "img": "https://summerofcode.withgoogle.com/media/org/mbdyn/ambfdghkrcyizd8l-360.png",
+    "years": [
+      2025,
+      2024,
+      2022
+    ]
+  },
+  {
+    "slug": "micro-electronics-research-lab-uitu",
+    "name": "Micro Electronics Research Lab - UITU",
+    "desc": "Accelerating Engineering Innovation",
+    "img": "https://summerofcode.withgoogle.com/media/org/micro-electronics-research-lab-uitu/el9byq6f4dfc1y77-360.png",
+    "years": [
+      2025,
+      2024,
+      2023,
+      2022
+    ]
+  },
+  {
+    "slug": "open-climate-fix",
+    "name": "Open Climate Fix",
+    "desc": "Using Computers to Fix Climate Change",
+    "img": "https://summerofcode.withgoogle.com/media/org/open-climate-fix/k4retnlmzqbkc6bn-360.png",
+    "years": [
+      2025,
+      2024
+    ]
+  },
+  {
+    "slug": "opencv",
+    "name": "OpenCV",
+    "desc": "++ beneficial uses of computer vision in society",
+    "img": "https://summerofcode.withgoogle.com/media/org/opencv/fmh9fnybaz97kodm-360.png",
+    "years": [
+      2025,
+      2024,
+      2023,
+      2022
+    ]
+  },
+  {
+    "slug": "openms",
+    "name": "OpenMS",
+    "desc": "OpenMS GSoC: Advancing Algorithms & AI for Biomedical Insights",
+    "img": "https://summerofcode.withgoogle.com/media/org/openms/oltxzjcwcupftoxu-360.png",
+    "years": [
+      2025
+    ]
+  },
+  {
+    "slug": "organic-maps",
+    "name": "Organic Maps",
+    "desc": "Offline maps app for tourists, cyclers, hikers and drivers",
+    "img": "https://summerofcode.withgoogle.com/media/org/organic-maps/cnhed0elppzqsjut-360.png",
+    "years": [
+      2025,
+      2024,
+      2023,
+      2022
+    ]
+  },
+  {
+    "slug": "pal-robotics",
+    "name": "PAL Robotics",
+    "desc": "Enhance people’s quality of life through Robotics",
+    "img": "https://summerofcode.withgoogle.com/media/org/pal-robotics/f3yidefsydweipcc-360.png",
+    "years": [
+      2025
+    ]
+  },
+  {
+    "slug": "plone-foundation",
+    "name": "Plone Foundation",
+    "desc": "Python-based CMS, with React front-end.",
+    "img": "https://summerofcode.withgoogle.com/media/org/plone-foundation/wivpatiziuhidzjw-360.png",
+    "years": [
+      2025,
+      2024,
+      2023,
+      2022
+    ]
+  },
+  {
+    "slug": "prometheus-operator",
+    "name": "Prometheus-Operator",
+    "desc": "Managing Prometheus atop Kubernetes",
+    "img": "https://summerofcode.withgoogle.com/media/org/prometheus-operator/dpytdkpyfejrot7o-360.png",
+    "years": [
+      2025,
+      2024
+    ]
+  },
+  {
+    "slug": "rocketchat",
+    "name": "rocket.chat",
+    "desc": "Open source communications platform for the AI age",
+    "img": "https://summerofcode.withgoogle.com/media/org/rocketchat/qnog9kebwa9atw3l-360.png",
+    "years": [
+      2025,
+      2024,
+      2023,
+      2022
+    ]
+  },
+  {
+    "slug": "rspamd",
+    "name": "Rspamd",
+    "desc": "Rspamd is an email framework and spam filter",
+    "img": "https://summerofcode.withgoogle.com/media/org/rspamd/d2hi7vv5bavik21s-360.png",
+    "years": [
+      2025
+    ]
+  },
+  {
+    "slug": "scala-center",
+    "name": "Scala Center",
+    "desc": "Guide and support the Scala community",
+    "img": "https://summerofcode.withgoogle.com/media/org/scala-center/0umytpqshifjeevx-360.png",
+    "years": [
+      2025,
+      2024,
+      2023,
+      2022
+    ]
+  },
+  {
+    "slug": "society-for-arts-and-technology-sat",
+    "name": "Society for Arts and Technology (SAT)",
+    "desc": "Technological tools for creativity and industry",
+    "img": "https://summerofcode.withgoogle.com/media/org/society-for-arts-and-technology-sat/pkgrduycyoh0wxmf-360.png",
+    "years": [
+      2025,
+      2023,
+      2022
+    ]
+  },
+  {
+    "slug": "software-and-computational-systems-lab-at-lmu-munich",
+    "name": "Software and Computational Systems Lab at LMU Munich",
+    "desc": "Algorithms and Tooling for Software Verification",
+    "img": "https://summerofcode.withgoogle.com/media/org/software-and-computational-systems-lab-at-lmu-munich/kcrheiieoyvdm0r7-360.png",
+    "years": [
+      2025,
+      2024,
+      2023
+    ]
+  },
+  {
+    "slug": "sqlancer",
+    "name": "SQLancer",
+    "desc": "Automatically testing database systems",
+    "img": "https://summerofcode.withgoogle.com/media/org/sqlancer/hzunjobwazuptdb6.png",
+    "years": [
+      2025,
+      2023
+    ]
+  },
+  {
+    "slug": "st-jude-childrens-research-hospital",
+    "name": "St. Jude Children's Research Hospital",
+    "desc": "Find cures. Saving children.",
+    "img": "https://summerofcode.withgoogle.com/media/org/st-jude-childrens-research-hospital-ai/qnfe4pckkvrq5tfw-360.png",
+    "years": [
+      2025
+    ]
+  },
+  {
+    "slug": "stear-group",
+    "name": "Ste||ar group",
+    "desc": "Shaping a Scalable Future",
+    "img": "https://summerofcode.withgoogle.com/media/org/stear-group/sebxbtinyakvrevb-360.png",
+    "years": [
+      2025,
+      2024,
+      2023,
+      2022
+    ]
+  },
+  {
+    "slug": "the-palisadoes-foundation",
+    "name": "The Palisadoes Foundation",
+    "desc": "Social media and member management for non-profits",
+    "img": "https://summerofcode.withgoogle.com/media/org/the-palisadoes-foundation/r6rilsadbxyujakk-360.png",
+    "years": [
+      2025,
+      2024,
+      2023,
+      2022
+    ]
+  },
+  {
+    "slug": "the-tor-project",
+    "name": "The Tor Project",
+    "desc": "Defend yourself against tracking and surveillance.",
+    "img": "https://summerofcode.withgoogle.com/media/org/the-tor-project/1w40vc9lqddvbfoa-360.png",
+    "years": [
+      2025,
+      2023,
+      2022
+    ]
+  },
+  {
+    "slug": "unicode-inc",
+    "name": "Unicode, Inc.",
+    "desc": "Bringing internationalization to software!",
+    "img": "https://summerofcode.withgoogle.com/media/org/unicode-inc/cev3zg8tjatag4mt.png",
+    "years": [
+      2025,
+      2024
+    ]
+  },
+  {
+    "slug": "waycrate",
+    "name": "Waycrate",
+    "desc": "Writing robust tools for the Wayland protocol",
+    "img": "https://summerofcode.withgoogle.com/media/org/waycrate/u6pnvceiilur7iqy-360.png",
+    "years": [
+      2025,
+      2024
+    ]
+  },
+  {
+    "slug": "wellcome-sanger-tree-of-life",
+    "name": "Wellcome Sanger Tree of Life",
+    "desc": "Genome analysis for all species",
+    "img": "https://summerofcode.withgoogle.com/media/org/wellcome-sanger-institute/gmcjtlourmhkhhed-360.png",
+    "years": [
+      2025,
+      2024,
+      2022
+    ]
+  },
+  {
+    "slug": "zendalona",
+    "name": "Zendalona",
+    "desc": "FOSS accessibility solutions for visually impaired",
+    "img": "https://summerofcode.withgoogle.com/media/org/zendalona/tqduj6nsxnnw3vpy-360.png",
+    "years": [
+      2025,
+      2024
+    ]
+  },
+  {
+    "slug": "apertium",
+    "name": "Apertium",
+    "desc": "A free/open-source machine translation platform",
+    "img": "https://summerofcode.withgoogle.com/media/org/apertium/bonpbccfuafpa634-360.png",
+    "years": [
+      2024,
+      2023
+    ]
+  },
+  {
+    "slug": "camicroscope",
+    "name": "caMicroscope",
+    "desc": "Toolkit for cancer imaging research",
+    "img": "https://summerofcode.withgoogle.com/media/org/camicroscope/gnuvwzgnlt6gpjwy-360.png",
+    "years": [
+      2024,
+      2023
+    ]
+  },
+  {
+    "slug": "chips-alliance",
+    "name": "CHIPS Alliance",
+    "desc": "Open source IP, tools & standards for ASIC/FPGA",
+    "img": "https://summerofcode.withgoogle.com/media/org/chips-alliance/6tfmap6dqunmfu0f-360.png",
+    "years": [
+      2024,
+      2023,
+      2022
+    ]
+  },
+  {
+    "slug": "city-of-boston",
+    "name": "City of Boston",
+    "desc": "Empowering Boston's residents through technology",
+    "img": "https://summerofcode.withgoogle.com/media/org/city-of-boston/yzgdh5rskmjwxham-360.png",
+    "years": [
+      2024
+    ]
+  },
+  {
+    "slug": "creative-commons",
+    "name": "Creative Commons",
+    "desc": "Nonprofit building a global digital commons.",
+    "img": "https://summerofcode.withgoogle.com/media/org/creative-commons/jvj0y3czaagpnhvz-360.png",
+    "years": [
+      2024,
+      2023
+    ]
+  },
+  {
+    "slug": "cvat",
+    "name": "CVAT",
+    "desc": "Computer Vision Data Annotation Platform for AI",
+    "img": "https://summerofcode.withgoogle.com/media/org/cvat/mqacwujl7ascwcsu.png",
+    "years": [
+      2024
+    ]
+  },
+  {
+    "slug": "datenlord",
+    "name": "DatenLord",
+    "desc": "High-performance AI+Cloud infrastructure provider.",
+    "img": "https://summerofcode.withgoogle.com/media/org/datenlord-6z/wcwd5qgl2ukkkgq4-360.png",
+    "years": [
+      2024
+    ]
+  },
+  {
+    "slug": "eunomia-bpf",
+    "name": "eunomia-bpf",
+    "desc": "Unleash eBPF Potential with our tools and runtimes",
+    "img": "https://summerofcode.withgoogle.com/media/org/eunomia-bpf/xnyotwpqgsmqh6xf.png",
+    "years": [
+      2024
+    ]
+  },
+  {
+    "slug": "freetype",
+    "name": "FreeType",
+    "desc": "FreeType is a software library to render fonts.",
+    "img": "https://summerofcode.withgoogle.com/media/org/freetype/bbbcwzgimhkwpcvx-360.png",
+    "years": [
+      2024,
+      2023,
+      2022
+    ]
+  },
+  {
+    "slug": "lappis",
+    "name": "LAPPIS",
+    "desc": "Social Participation to Reach Millions",
+    "img": "https://summerofcode.withgoogle.com/media/org/lappis/o9wx8njgmzlcug4n-360.png",
+    "years": [
+      2024
+    ]
+  },
+  {
+    "slug": "libvirt",
+    "name": "libvirt",
+    "desc": "Virtualization abstraction library",
+    "img": "https://summerofcode.withgoogle.com/media/org/libvirt/8xb4f5zwejage5pf-360.png",
+    "years": [
+      2024,
+      2022
+    ]
+  },
+  {
+    "slug": "mautic",
+    "name": "Mautic",
+    "desc": "Free your Marketing with Open Source!",
+    "img": "https://summerofcode.withgoogle.com/media/org/mautic/p77ddc1xxldz2elv-360.png",
+    "years": [
+      2024
+    ]
+  },
+  {
+    "slug": "mlpack",
+    "name": "mlpack",
+    "desc": "a fast, flexible machine learning library",
+    "img": "https://summerofcode.withgoogle.com/media/org/mlpack/gs9xn22l8vefyvhh-360.png",
+    "years": [
+      2024,
+      2023,
+      2022
+    ]
+  },
+  {
+    "slug": "moveit",
+    "name": "MoveIt",
+    "desc": "Moving robots into the future",
+    "img": "https://summerofcode.withgoogle.com/media/org/moveit/zmatlwnrrfqcdsjo-360.png",
+    "years": [
+      2024,
+      2023,
+      2022
+    ]
+  },
+  {
+    "slug": "musescore",
+    "name": "MuseScore",
+    "desc": "The World’s Most Popular Music Notation Software",
+    "img": "https://summerofcode.withgoogle.com/media/org/musescore/tgkjkzlqhj0qru5z.png",
+    "years": [
+      2024,
+      2023,
+      2022
+    ]
+  },
+  {
+    "slug": "nightwatchjs",
+    "name": "Nightwatch.js",
+    "desc": "An integrated testing framework powered by Node.js",
+    "img": "https://summerofcode.withgoogle.com/media/org/nightwatchjs/slpwnkwtngatafl1-360.png",
+    "years": [
+      2024
+    ]
+  },
+  {
+    "slug": "open-chemistry",
+    "name": "Open Chemistry",
+    "desc": "Advancing Open Source & Open Science for Chemistry",
+    "img": "https://summerofcode.withgoogle.com/media/org/open-chemistry/esda0gvsxomll6my-360.png",
+    "years": [
+      2024,
+      2023,
+      2022
+    ]
+  },
+  {
+    "slug": "open-chromosome-collective",
+    "name": "Open Chromosome Collective",
+    "desc": "Open-Source Tools for 3D Genomics Research",
+    "img": "https://summerofcode.withgoogle.com/media/org/open-chromosome-collective/ef70feamp2pdisjj.png",
+    "years": [
+      2024
+    ]
+  },
+  {
+    "slug": "openrefine",
+    "name": "OpenRefine",
+    "desc": "A power tool for working with messy data",
+    "img": "https://summerofcode.withgoogle.com/media/org/openrefine-j0/vygefztjlapanqqa-360.png",
+    "years": [
+      2024
+    ]
+  },
+  {
+    "slug": "polypheny",
+    "name": "Polypheny",
+    "desc": "The Most Versatile Data Management Platform",
+    "img": "https://summerofcode.withgoogle.com/media/org/polypheny/059uxeqzitvoqcyx-360.png",
+    "years": [
+      2024,
+      2022
+    ]
+  },
+  {
+    "slug": "purr-data",
+    "name": "Purr Data",
+    "desc": "Realtime Audio/Visual Programming Environment",
+    "img": "https://summerofcode.withgoogle.com/media/org/purr-data/vb8l0binls5gjdqp-360.png",
+    "years": [
+      2024,
+      2023,
+      2022
+    ]
+  },
+  {
+    "slug": "red-hen-lab",
+    "name": "Red Hen Lab",
+    "desc": "Research on Multimodal Communication",
+    "img": "https://summerofcode.withgoogle.com/media/org/red-hen-lab/ugdzrslbomp6lacy-360.png",
+    "years": [
+      2024,
+      2023,
+      2022
+    ]
+  },
+  {
+    "slug": "robolectric",
+    "name": "Robolectric",
+    "desc": "Fast unit testing runtime for Android",
+    "img": "https://summerofcode.withgoogle.com/media/org/robolectric/lazlu9me0dgu60vq-360.png",
+    "years": [
+      2024,
+      2022
+    ]
+  },
+  {
+    "slug": "scalable-parallel-computing-laboratory",
+    "name": "Scalable Parallel Computing Laboratory",
+    "desc": "High-performance computing for clusters and clouds",
+    "img": "https://summerofcode.withgoogle.com/media/org/scalable-parallel-computing-laboratory/cho0tqlhmykehqlw-360.png",
+    "years": [
+      2024,
+      2023
+    ]
+  },
+  {
+    "slug": "sktime",
+    "name": "sktime",
+    "desc": "AI for you, democratically governed",
+    "img": "https://summerofcode.withgoogle.com/media/org/sktime/r4tt0bxi2oqf8xlw-360.png",
+    "years": [
+      2024,
+      2022
+    ]
+  },
+  {
+    "slug": "stratosphere-laboratory-czech-technical-university-in-prague",
+    "name": "Stratosphere Laboratory, Czech Technical University in Prague",
+    "desc": "Using machine learning and security to help others",
+    "img": "https://summerofcode.withgoogle.com/media/org/stratosphere-laboratory-czech-technical-university-in-prague/94v2dwoajljheoba-360.png",
+    "years": [
+      2024,
+      2023
+    ]
+  },
+  {
+    "slug": "the-enigma-team",
+    "name": "The ENIGMA Team",
+    "desc": "A free rapid game development environment.",
+    "img": "https://summerofcode.withgoogle.com/media/org/the-enigma-team/ipdbzf7owbf34bdr-360.png",
+    "years": [
+      2024,
+      2023,
+      2022
+    ]
+  },
+  {
+    "slug": "xmpp-standards-foundation",
+    "name": "XMPP Standards Foundation",
+    "desc": "XSF develops an open-standard messaging protocol",
+    "img": "https://summerofcode.withgoogle.com/media/org/xmpp-standards-foundation/1qfi0ofcfmb8qin8-360.png",
+    "years": [
+      2024,
+      2023,
+      2022
+    ]
+  },
+  {
+    "slug": "carbon-language",
+    "name": "Carbon Language",
+    "desc": "An experimental successor to C++",
+    "img": "https://summerofcode.withgoogle.com/media/org/carbon-language/gsrd8pzheipwksw8-360.png",
+    "years": [
+      2023
+    ]
+  },
+  {
+    "slug": "cockpit-project",
+    "name": "Cockpit Project",
+    "desc": "Cockpit is an interactive server admin interface",
+    "img": "https://summerofcode.withgoogle.com/media/org/cockpit-project/znjdaamdoskwijzj-360.png",
+    "years": [
+      2023
+    ]
+  },
+  {
+    "slug": "coreboot",
+    "name": "coreboot",
+    "desc": "Fast, secure and flexible BIOS firmware",
+    "img": "https://summerofcode.withgoogle.com/media/org/coreboot/aq8ne4b9ot7xq8rz-360.png",
+    "years": [
+      2023,
+      2022
+    ]
+  },
+  {
+    "slug": "gcp-scanner",
+    "name": "GCP Scanner",
+    "desc": "Security scanning tool for Google Cloud",
+    "img": "https://summerofcode.withgoogle.com/media/org/gcp-scanner/llfil1bsqmtp4cyj-360.png",
+    "years": [
+      2023
+    ]
+  },
+  {
+    "slug": "gentoo-foundation",
+    "name": "Gentoo Foundation",
+    "desc": "A flexible, source-based Linux distribution.",
+    "img": "https://summerofcode.withgoogle.com/media/org/gentoo-foundation/lmavef6x2gwpske4-360.png",
+    "years": [
+      2023,
+      2022
+    ]
+  },
+  {
+    "slug": "gnutls",
+    "name": "GnuTLS",
+    "desc": "C library implementing TLS and DTLS",
+    "img": "https://summerofcode.withgoogle.com/media/org/gnutls/xl8zg8hb6elbg1j4.png",
+    "years": [
+      2023
+    ]
+  },
+  {
+    "slug": "ivy-lets-unifyai",
+    "name": "Ivy (lets-unify.ai)",
+    "desc": "The Unified AI Framework",
+    "img": "https://summerofcode.withgoogle.com/media/org/ivy-lets-unifyai/hvcci65nh7oz3p1x-360.png",
+    "years": [
+      2023
+    ]
+  },
+  {
+    "slug": "jina-ai",
+    "name": "Jina AI",
+    "desc": "Multimodal AI from the community, for everyone",
+    "img": "https://summerofcode.withgoogle.com/media/org/jina-ai-sb/fzfhdw1ifhstruln-360.png",
+    "years": [
+      2023
+    ]
+  },
+  {
+    "slug": "libcamera",
+    "name": "libcamera",
+    "desc": "Provide an open source camera stack for linux",
+    "img": "https://summerofcode.withgoogle.com/media/org/libcamera/p4cgbqxrhkw3igiv-360.png",
+    "years": [
+      2023,
+      2022
+    ]
+  },
+  {
+    "slug": "mantis",
+    "name": "Mantis",
+    "desc": "Stream Processing for Operational Analytics",
+    "img": "https://summerofcode.withgoogle.com/media/org/mantis/qvsvnpozgrydjrxi-360.png",
+    "years": [
+      2023
+    ]
+  },
+  {
+    "slug": "mathesar",
+    "name": "Mathesar",
+    "desc": "Webapp providing a UX-first interface to databases",
+    "img": "https://summerofcode.withgoogle.com/media/org/mathesar/v96apwcwn80c3uch-360.png",
+    "years": [
+      2023,
+      2022
+    ]
+  },
+  {
+    "slug": "mayors-office-of-new-urban-mechanics",
+    "name": "Mayor's Office of New Urban Mechanics",
+    "desc": "Exploring new approaches to civic life.",
+    "img": "https://summerofcode.withgoogle.com/media/org/mayors-office-of-new-urban-mechanics/cs1pzj2yb0d4hsuq-360.png",
+    "years": [
+      2023,
+      2022
+    ]
+  },
+  {
+    "slug": "mzmine-and-ms-dial",
+    "name": "MZmine and MS-DIAL",
+    "desc": "Open-source software for mass spectrometry",
+    "img": "https://summerofcode.withgoogle.com/media/org/mzmine-and-ms-dial/pdqwksmlm0rn7hwq-360.png",
+    "years": [
+      2023
+    ]
+  },
+  {
+    "slug": "pitivi",
+    "name": "Pitivi",
+    "desc": "Self-expression through filmmaking",
+    "img": "https://summerofcode.withgoogle.com/media/org/pitivi/tghrhxkqd9hb4cks-360.png",
+    "years": [
+      2023
+    ]
+  },
+  {
+    "slug": "postman",
+    "name": "Postman",
+    "desc": "The Future is API-First",
+    "img": "https://summerofcode.withgoogle.com/media/org/postman/iw5h0aed8pe5yind-360.png",
+    "years": [
+      2023
+    ]
+  },
+  {
+    "slug": "qdrant",
+    "name": "Qdrant",
+    "desc": "Vector Search Database for the new AI generation.",
+    "img": "https://summerofcode.withgoogle.com/media/org/qdrant/73jgnlygoyu6ibia-360.png",
+    "years": [
+      2023
+    ]
+  },
+  {
+    "slug": "score-lab",
+    "name": "SCoRe Lab",
+    "desc": "SCORE Lab develops FOSS softwares for everyone!!!",
+    "img": "https://summerofcode.withgoogle.com/media/org/score-lab/4q1suym3qnhxmlj6-360.png",
+    "years": [
+      2023,
+      2022
+    ]
+  },
+  {
+    "slug": "spdx",
+    "name": "SPDX",
+    "desc": "An open ISO standard for SBOMs",
+    "img": "https://summerofcode.withgoogle.com/media/org/spdx/ggw7mdbriw97mzmu-360.png",
+    "years": [
+      2023,
+      2022
+    ]
+  },
+  {
+    "slug": "tensorflow",
+    "name": "TensorFlow",
+    "desc": "TensorFlow is a ML framework for everyone.",
+    "img": "https://summerofcode.withgoogle.com/media/org/tensorflow-d1/0sqdbtssij0tfcwy-360.png",
+    "years": [
+      2023,
+      2022
+    ]
+  },
+  {
+    "slug": "xorg-foundation",
+    "name": "X.Org Foundation",
+    "desc": "X Window System and related projects (Mesa, DRI, Wayland, etc.)",
+    "img": "https://summerofcode.withgoogle.com/media/org/xorg-foundation/g3sbklva7h1ksltv-360.png",
+    "years": [
+      2023,
+      2022
+    ]
+  },
+  {
+    "slug": "xwiki",
+    "name": "XWiki",
+    "desc": "The Advanced Open Source Enterprise Wiki",
+    "img": "https://summerofcode.withgoogle.com/media/org/xwiki/ea9akuy6esnffmuk-360.png",
+    "years": [
+      2023,
+      2022
+    ]
+  },
+  {
+    "slug": "audacity",
+    "name": "Audacity",
+    "desc": "Free, open source, cross-platform audio software",
+    "img": "https://summerofcode.withgoogle.com/media/org/audacity/7opleanl35jab5va-360.png",
+    "years": [
+      2022
+    ]
+  },
+  {
+    "slug": "casbin",
+    "name": "Casbin",
+    "desc": "Authorization library that supports RBAC and ABAC",
+    "img": "https://summerofcode.withgoogle.com/media/org/casbin/tiqlcyqhyub20y9z-360.png",
+    "years": [
+      2022
+    ]
+  },
+  {
+    "slug": "flashrom",
+    "name": "Flashrom",
+    "desc": "Reading, writing, verifying, erasing flash chips",
+    "img": "https://summerofcode.withgoogle.com/media/org/flashrom/lbs8lwrrtukrpznk-360.png",
+    "years": [
+      2022
+    ]
+  },
+  {
+    "slug": "forschungszentrum-jlich",
+    "name": "Forschungszentrum Jülich",
+    "desc": "Shaping change: open source for Big Science",
+    "img": "https://summerofcode.withgoogle.com/media/org/forschungszentrum-julich/lpw2snlqeq5bopxq-360.png",
+    "years": [
+      2022
+    ]
+  },
+  {
+    "slug": "frrouting",
+    "name": "FRRouting",
+    "desc": "Routing suite including BGP, IS-IS, LDP, OSPF, PIM",
+    "img": "https://summerofcode.withgoogle.com/media/org/frrouting/wvsrcdtt2anax9ej-360.png",
+    "years": [
+      2022
+    ]
+  },
+  {
+    "slug": "godot-engine",
+    "name": "Godot Engine",
+    "desc": "Multi-platform 2D and 3D game engine",
+    "img": "https://summerofcode.withgoogle.com/media/org/godot-engine/cggtfgpsfjd23pf0-360.png",
+    "years": [
+      2022
+    ]
+  },
+  {
+    "slug": "homebrew",
+    "name": "Homebrew",
+    "desc": "The Missing Package Manager for macOS (or Linux)",
+    "img": "https://summerofcode.withgoogle.com/media/org/homebrew/9enfivj2ibae26ot-360.png",
+    "years": [
+      2022
+    ]
+  },
+  {
+    "slug": "intel-video-and-audio-for-linux",
+    "name": "Intel Video and Audio for Linux",
+    "desc": "We enable Linux Audio and Video for Intel",
+    "img": "https://summerofcode.withgoogle.com/media/org/intel-video-and-audio-for-linux/u8hffydro4hyexxd-360.png",
+    "years": [
+      2022
+    ]
+  },
+  {
+    "slug": "jenkins-x",
+    "name": "Jenkins X",
+    "desc": "Accelerate Your Continuous Delivery on Kubernetes",
+    "img": "https://summerofcode.withgoogle.com/media/org/jenkins-x/jjkyxgzeyje2m2hr-360.png",
+    "years": [
+      2022
+    ]
+  },
+  {
+    "slug": "kart-project",
+    "name": "Kart Project",
+    "desc": "Distributed version-control for geospatial data",
+    "img": "https://summerofcode.withgoogle.com/media/org/kart-project/mtb71mb4pzybzrp5-360.png",
+    "years": [
+      2022
+    ]
+  },
+  {
+    "slug": "keptn",
+    "name": "Keptn",
+    "desc": "Event-driven orchestration of cloud-native apps",
+    "img": "https://summerofcode.withgoogle.com/media/org/keptn/ey8vcewiadqdgplv-360.png",
+    "years": [
+      2022
+    ]
+  },
+  {
+    "slug": "kodi",
+    "name": "Kodi",
+    "desc": "The ultimate entertainment center",
+    "img": "https://summerofcode.withgoogle.com/media/org/kodi/drlohv8g8h6wfxvo-360.png",
+    "years": [
+      2022
+    ]
+  },
+  {
+    "slug": "leap-encryption-access-project",
+    "name": "LEAP Encryption Access Project",
+    "desc": "Privacy should not be a priviledge",
+    "img": "https://summerofcode.withgoogle.com/media/org/leap-encryption-access-project/rd167bcc545zvv8w-360.png",
+    "years": [
+      2022
+    ]
+  },
+  {
+    "slug": "matrixorg",
+    "name": "Matrix.org",
+    "desc": "Open, secure, decentralised communication",
+    "img": "https://summerofcode.withgoogle.com/media/org/matrixorg/nyk4qwnzpfwcezz5-360.png",
+    "years": [
+      2022
+    ]
+  },
+  {
+    "slug": "moja-global",
+    "name": "moja global",
+    "desc": "Collaboration for change",
+    "img": "https://summerofcode.withgoogle.com/media/org/moja-global/jcd7uys3qjvi0guo-360.png",
+    "years": [
+      2022
+    ]
+  },
+  {
+    "slug": "monado",
+    "name": "Monado",
+    "desc": "Monado, the free and open source XR platform",
+    "img": "https://summerofcode.withgoogle.com/media/org/monado/uch9jarqbeko6nep-360.png",
+    "years": [
+      2022
+    ]
+  },
+  {
+    "slug": "mzmine",
+    "name": "MZmine",
+    "desc": "Open-source software for mass spectrometry",
+    "img": "https://summerofcode.withgoogle.com/media/org/mzmine/ukbi9nk03mqxfuaw-360.png",
+    "years": [
+      2022
+    ]
+  },
+  {
+    "slug": "open-bioinformatics-foundation-obf",
+    "name": "Open Bioinformatics Foundation (OBF)",
+    "desc": "Open Source & Open Science in biological research",
+    "img": "https://summerofcode.withgoogle.com/media/org/open-bioinformatics-foundation-obf/gcg4ymt4qhsd0fyj-360.png",
+    "years": [
+      2022
+    ]
+  },
+  {
+    "slug": "open3d-team",
+    "name": "Open3D team",
+    "desc": "A Modern Library for 3D Data Processing",
+    "img": "https://summerofcode.withgoogle.com/media/org/open3d-team/yhzlqgd1qkcypvrw-360.png",
+    "years": [
+      2022
+    ]
+  },
+  {
+    "slug": "orcasound",
+    "name": "Orcasound",
+    "desc": "Humans & AI listening together to save the whales.",
+    "img": "https://summerofcode.withgoogle.com/media/org/orcasound/fu5kadqoa0vlsjhx-360.png",
+    "years": [
+      2022
+    ]
+  },
+  {
+    "slug": "our-world-in-data",
+    "name": "Our World In Data",
+    "desc": "Explaining the world's biggest problems with data",
+    "img": "https://summerofcode.withgoogle.com/media/org/our-world-in-data/ghnijuxmyoccl6rt-360.png",
+    "years": [
+      2022
+    ]
+  },
+  {
+    "slug": "performance-co-pilot",
+    "name": "Performance Co-Pilot",
+    "desc": "System performance analysis",
+    "img": "https://summerofcode.withgoogle.com/media/org/performance-co-pilot/ef66s0dqidt5rfle-360.png",
+    "years": [
+      2022
+    ]
+  },
+  {
+    "slug": "powerdns",
+    "name": "PowerDNS",
+    "desc": "PowerDNS provides open source DNS software",
+    "img": "https://summerofcode.withgoogle.com/media/org/powerdns/qmczym8f4ok5netw-360.png",
+    "years": [
+      2022
+    ]
+  },
+  {
+    "slug": "public-lab",
+    "name": "Public Lab",
+    "desc": "Tools for communities to measure pollution",
+    "img": "https://summerofcode.withgoogle.com/media/org/public-lab/w93lsalkzbyb31pg-360.png",
+    "years": [
+      2022
+    ]
+  },
+  {
+    "slug": "radar-base",
+    "name": "RADAR-base",
+    "desc": "Improve people's quality of life using patient generated data",
+    "img": "https://summerofcode.withgoogle.com/media/org/radar-base/8glcheumuwndks2c-360.png",
+    "years": [
+      2022
+    ]
+  },
+  {
+    "slug": "reactos-foundation",
+    "name": "ReactOS Foundation",
+    "desc": "Open your windows to freedom!",
+    "img": "https://summerofcode.withgoogle.com/media/org/reactos-foundation/yell79w1st8tno4c-360.png",
+    "years": [
+      2022
+    ]
+  },
+  {
+    "slug": "responsible-ai-and-human-centred-technology",
+    "name": "Responsible AI and Human Centred Technology",
+    "desc": "Human-centered and responsible AI for all",
+    "img": "https://summerofcode.withgoogle.com/media/org/responsible-ai-and-human-centred-technology/makkydlswhmjyilu-360.png",
+    "years": [
+      2022
+    ]
+  },
+  {
+    "slug": "robocomp",
+    "name": "RoboComp",
+    "desc": "Open-source framework to develop robot components",
+    "img": "https://summerofcode.withgoogle.com/media/org/robocomp/okal4wecq8dywr78-360.png",
+    "years": [
+      2022
+    ]
+  },
+  {
+    "slug": "seaql",
+    "name": "SeaQL",
+    "desc": "Building developer tools for Rust",
+    "img": "https://summerofcode.withgoogle.com/media/org/seaql/tkc2iu6ottkqbq0b-360.png",
+    "years": [
+      2022
+    ]
+  },
+  {
+    "slug": "software-heritage",
+    "name": "Software Heritage",
+    "desc": "The universal source code archive",
+    "img": "https://summerofcode.withgoogle.com/media/org/software-heritage/8vchqcnmijmq3ibq-360.png",
+    "years": [
+      2022
+    ]
+  },
+  {
+    "slug": "strace",
+    "name": "strace",
+    "desc": "Linux syscall tracer",
+    "img": "https://summerofcode.withgoogle.com/media/org/strace/yreopwofddfe6zhk-360.png",
+    "years": [
+      2022
+    ]
+  },
+  {
+    "slug": "syslog-ng",
+    "name": "syslog-ng",
+    "desc": "Enhanced log daemon, w/ wide range of I/O methods",
+    "img": "https://summerofcode.withgoogle.com/media/org/syslog-ng/ipqfczgd4cx3zm9r-360.png",
+    "years": [
+      2022
+    ]
+  },
+  {
+    "slug": "tianocore",
+    "name": "TianoCore",
+    "desc": "Modern, open source, UEFI BIOS firmware",
+    "img": "https://summerofcode.withgoogle.com/media/org/tianocore/klcxfxidgxhn6yan-360.png",
+    "years": [
+      2022
+    ]
+  },
+  {
+    "slug": "weaviate",
+    "name": "Weaviate",
+    "desc": "The ML-first vector search engine",
+    "img": "https://summerofcode.withgoogle.com/media/org/semi-technologies/lgojiepwwpp7iqby.png",
+    "years": [
+      2022
+    ]
+  },
+  {
+    "slug": "xfce",
+    "name": "Xfce",
+    "desc": "Lightweight and flexible linux desktop environment",
+    "img": "https://summerofcode.withgoogle.com/media/org/xfce/jp4avjju3s9gfqos-360.png",
+    "years": [
+      2022
+    ]
+  }
+]

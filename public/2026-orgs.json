@@ -1,0 +1,917 @@
+[
+  {
+    "name": "JBoss Community",
+    "desc": "Community of projects around JBoss Middleware",
+    "img": "https://summerofcode.withgoogle.com/media/org/jboss-community/vno1fifehc0i6aa6-360.png"
+  },
+  {
+    "name": "The NetBSD Foundation",
+    "desc": "Of course it runs NetBSD",
+    "img": "https://summerofcode.withgoogle.com/media/org/the-netbsd-foundation/gi3vozsqpecopqku-360.png"
+  },
+  {
+    "name": "OpenWISP",
+    "desc": "The Hackable Network Management System",
+    "img": "https://summerofcode.withgoogle.com/media/org/openwisp/xgfy0r7femccwzvj-360.png"
+  },
+  {
+    "name": "Unikraft",
+    "desc": "A Fast and Secure Unikernel SDK",
+    "img": "https://summerofcode.withgoogle.com/media/org/unikraft/5nx7anuq3iixdm54.png"
+  },
+  {
+    "name": "Django Software Foundation",
+    "desc": "Web framework for perfectionists with deadlines",
+    "img": "https://summerofcode.withgoogle.com/media/org/django-software-foundation-8o/685unxpkksrvfugu-360.png"
+  },
+  {
+    "name": "OpenAFS",
+    "desc": "An open source distributed filesystem.",
+    "img": "https://summerofcode.withgoogle.com/media/org/openafs/hhf0h2zemmqes7kt-360.png"
+  },
+  {
+    "name": "preCICE",
+    "desc": "The coupling library for multi-physics simulations",
+    "img": "https://summerofcode.withgoogle.com/media/org/precice/19ymcw80uxn8g9ia-360.png"
+  },
+  {
+    "name": "gprMax",
+    "desc": "Simulating electromagnetic wave propagation",
+    "img": "https://summerofcode.withgoogle.com/media/org/gprmax/vm8kavyxz3csja8f-360.png"
+  },
+  {
+    "name": "INCF",
+    "desc": "An open & FAIR neuroscience standards organization",
+    "img": "https://summerofcode.withgoogle.com/media/org/incf/gnryoa8kunjogh9a-360.png"
+  },
+  {
+    "name": "National Resource for Network Biology (NRNB)",
+    "desc": "Developing open source tools for network biology",
+    "img": "https://summerofcode.withgoogle.com/media/org/national-resource-for-network-biology-nrnb/5uobjboaxnzrxyoj-360.png"
+  },
+  {
+    "name": "Open HealthCare Network",
+    "desc": "Reimagining Healthcare Delivery",
+    "img": "https://summerofcode.withgoogle.com/media/org/open-healthcare-network/eutslgqeknc9vlgd-360.png"
+  },
+  {
+    "name": "EROFS filesystem",
+    "desc": "Modern image-based kernel filesystem for everyone",
+    "img": "https://summerofcode.withgoogle.com/media/org/erofs-filesystem/qrkpvwkzjqmwoyau-360.png"
+  },
+  {
+    "name": "Boa",
+    "desc": "An ECMAScript engine written in Rust",
+    "img": "https://summerofcode.withgoogle.com/media/org/boa/vhimc4zkw6j9t8wm-360.png"
+  },
+  {
+    "name": "CircuitVerse.org",
+    "desc": "Build and learn logic circuits in the cloud!",
+    "img": "https://summerofcode.withgoogle.com/media/org/circuitverseorg/rxan5pn96f3m4yfu-360.png"
+  },
+  {
+    "name": "The Honeynet Project",
+    "desc": "Honeypots and Threat Intelligence R&D",
+    "img": "https://summerofcode.withgoogle.com/media/org/the-honeynet-project/pvycoc21p2ketj7b-360.png"
+  },
+  {
+    "name": "NixOS Foundation",
+    "desc": "Declarative builds and deployments",
+    "img": "https://summerofcode.withgoogle.com/media/org/nixos-foundation/kvnnwp7viwupdsep.png"
+  },
+  {
+    "name": "Haskell.org",
+    "desc": "Purely functional programming language",
+    "img": "https://summerofcode.withgoogle.com/media/org/haskellorg/ivy7hfguqhoz8onp-360.png"
+  },
+  {
+    "name": "German Center for Open Source AI",
+    "desc": "Democratically governed AI for society",
+    "img": "https://summerofcode.withgoogle.com/media/org/german-center-for-open-source-ai/mir4i7v7wopcc7wn-360.png"
+  },
+  {
+    "name": "AOSSIE",
+    "desc": "Australian Umbrella Org for Open-Source Projects",
+    "img": "https://summerofcode.withgoogle.com/media/org/aossie/oo1wd34pc1ytrq6a-360.png"
+  },
+  {
+    "name": "JSON Schema",
+    "desc": "We enable the reliable use of JSON data format.",
+    "img": "https://summerofcode.withgoogle.com/media/org/json-schema/d3qfjxegxnlrfysi.png"
+  },
+  {
+    "name": "Data for the Common Good",
+    "desc": "Connect. Share. Discover.",
+    "img": "https://summerofcode.withgoogle.com/media/org/data-for-the-common-good/tk4snywy4ejlztpt-360.png"
+  },
+  {
+    "name": "CNCF",
+    "desc": "Building sustainable ecosystems for cloud native",
+    "img": "https://summerofcode.withgoogle.com/media/org/cncf/jmxijrttlucfutel-360.png"
+  },
+  {
+    "name": "The ns-3 Network Simulator Project",
+    "desc": "ns-3 is a simulation tool for computer networks.",
+    "img": "https://summerofcode.withgoogle.com/media/org/the-ns-3-network-simulator-project/0zmaec44y4jcfuj2-360.png"
+  },
+  {
+    "name": "IOOS",
+    "desc": "Our eyes on the ocean, coasts, and Great Lakes",
+    "img": "https://summerofcode.withgoogle.com/media/org/ioos/oe7caipkhwnizoyr-360.png"
+  },
+  {
+    "name": "PEcAn Project",
+    "desc": "Develop and promote tools for ecosystem modeling",
+    "img": "https://summerofcode.withgoogle.com/media/org/pecan-project/kijyzllr7r1g0ukz-360.png"
+  },
+  {
+    "name": "QC-Devs",
+    "desc": "Sustainable software for quantum chemistry & more",
+    "img": "https://summerofcode.withgoogle.com/media/org/qc-devs/nywcx8edxlpsz2kg-360.png"
+  },
+  {
+    "name": "Blender Foundation",
+    "desc": "The Freedom to Create",
+    "img": "https://summerofcode.withgoogle.com/media/org/blender-foundation/b3isfbjn0avwbmmf-360.png"
+  },
+  {
+    "name": "TARDIS RT Collaboration",
+    "desc": "Exploring supernovae made easy",
+    "img": "https://summerofcode.withgoogle.com/media/org/tardis-rt-collaboration/0ocxr3jw3fwdloye-360.png"
+  },
+  {
+    "name": "JabRef e.V.",
+    "desc": "Stay on top of your Literature",
+    "img": "https://summerofcode.withgoogle.com/media/org/jabref-ev/ylevworrwqf9bw9g-360.png"
+  },
+  {
+    "name": "United Nations Office of Information Communication Technology",
+    "desc": "Sustainable future through innovative technology.",
+    "img": "https://summerofcode.withgoogle.com/media/org/united-nations-office-of-information-communication-technology/bl0zv6y6mjmzuybz-360.png"
+  },
+  {
+    "name": "Apache Software Foundation",
+    "desc": "Open source software to the public free of charge",
+    "img": "https://summerofcode.withgoogle.com/media/org/apache-software-foundation/hq22fwtmvdfjnsh9-360.png"
+  },
+  {
+    "name": "PostgreSQL",
+    "desc": "The Most Advanced Open Source Relational Database",
+    "img": "https://summerofcode.withgoogle.com/media/org/postgresql/hj9srl9x0o6iendy-360.png"
+  },
+  {
+    "name": "Open Transit Software Foundation",
+    "desc": "Help make public transit better",
+    "img": "https://summerofcode.withgoogle.com/media/org/open-transit-software-foundation/uz3p7k5vsxduhrhk-360.png"
+  },
+  {
+    "name": "The Julia Language",
+    "desc": "A fresh approach to technical computing",
+    "img": "https://summerofcode.withgoogle.com/media/org/the-julia-language/49fck3n7j5aqnpwu-360.png"
+  },
+  {
+    "name": "cBioPortal for Cancer Genomics",
+    "desc": "Aid discovery in complex cancer genomics data",
+    "img": "https://summerofcode.withgoogle.com/media/org/cbioportal-for-cancer-genomics/fdxtjhb0urtqcyfe-360.png"
+  },
+  {
+    "name": "UC OSPO",
+    "desc": "Amplifying Research Impact through Open Source",
+    "img": "https://summerofcode.withgoogle.com/media/org/center-for-research-in-open-source-software-cross/ndbkr7fqcqp4nguq-360.png"
+  },
+  {
+    "name": "omegaUp",
+    "desc": "Open CS Education as a catalyst for social change",
+    "img": "https://summerofcode.withgoogle.com/media/org/omegaup/uvgilx7vyspavjox-360.png"
+  },
+  {
+    "name": "MetaCall",
+    "desc": "Simplifying the embedding of programming languages",
+    "img": "https://summerofcode.withgoogle.com/media/org/metacall/rezoq3uue7dpdzw5-360.png"
+  },
+  {
+    "name": "Qubes OS",
+    "desc": "A reasonably secure operating system",
+    "img": "https://summerofcode.withgoogle.com/media/org/qubes-os-f3/4hohuknku00cpaja-360.png"
+  },
+  {
+    "name": "Invesalius",
+    "desc": "3D Medical visualization and neuronavigation tool",
+    "img": "https://summerofcode.withgoogle.com/media/org/invesalius/ktlk8dmldhfmlyb2-360.png"
+  },
+  {
+    "name": "Wagtail",
+    "desc": "The powerful Python CMS for modern websites",
+    "img": "https://summerofcode.withgoogle.com/media/org/wagtail/so6hnqeqh2cp4jbx-360.png"
+  },
+  {
+    "name": "GRAME",
+    "desc": "Domain specific language for audio",
+    "img": "https://summerofcode.withgoogle.com/media/org/grame/joff5sziiuapvits-360.png"
+  },
+  {
+    "name": "Drupal Association",
+    "desc": "Build Bold Digital Experiences on Best Open Source",
+    "img": "https://summerofcode.withgoogle.com/media/org/drupal-association/kfbn4ws0uftixkho-360.png"
+  },
+  {
+    "name": "GNOME Foundation",
+    "desc": "A diverse and sustainable free software desktop.",
+    "img": "https://summerofcode.withgoogle.com/media/org/gnome-foundation/aqwqx1x6ozjnxsak-360.png"
+  },
+  {
+    "name": "stdlib",
+    "desc": "The fundamental numerical library for JavaScript",
+    "img": "https://summerofcode.withgoogle.com/media/org/stdlib/7ornclj6w5zz9fca-360.png"
+  },
+  {
+    "name": "Global Alliance for Genomics and Health",
+    "desc": "We develop genomics tools to benefit human health",
+    "img": "https://summerofcode.withgoogle.com/media/org/global-alliance-for-genomics-and-health/0bnlmihuhff098xd-360.png"
+  },
+  {
+    "name": "The Rust Foundation",
+    "desc": "A language empowering everyone",
+    "img": "https://summerofcode.withgoogle.com/media/org/the-rust-foundation/pplrhxvka7dufvsn.png"
+  },
+  {
+    "name": "Joplin",
+    "desc": "The secure note taking application",
+    "img": "https://summerofcode.withgoogle.com/media/org/joplin/0b4z6iftngd1afrp-360.png"
+  },
+  {
+    "name": "Swift",
+    "desc": "Fast, safe, and expressive programming language",
+    "img": "https://summerofcode.withgoogle.com/media/org/swift/moutmu5fv3rozvrz-360.png"
+  },
+  {
+    "name": "Alaska",
+    "desc": "Many Traditions, One Alaska",
+    "img": "https://summerofcode.withgoogle.com/media/org/alaska/uuu8lxevgc3jof9c.png"
+  },
+  {
+    "name": "LibreOffice",
+    "desc": "LibreOffice is a free and open source office suite",
+    "img": "https://summerofcode.withgoogle.com/media/org/libreoffice/3g60m1gvsyzwzvvk-360.png"
+  },
+  {
+    "name": "Rizin",
+    "desc": "Rizin reverse engineering framework and toolset",
+    "img": "https://summerofcode.withgoogle.com/media/org/rizin/7ageygqfyv7wzlee-360.png"
+  },
+  {
+    "name": "52°North Spatial Information Research GmbH",
+    "desc": "Innovative ideas & technologies in geoinformatics",
+    "img": "https://summerofcode.withgoogle.com/media/org/52north-spatial-information-research-gmbh/gzamo2sqfwcmcobt-360.png"
+  },
+  {
+    "name": "Eclipse Foundation",
+    "desc": "The Global Open Source Foundation",
+    "img": "https://summerofcode.withgoogle.com/media/org/eclipse-foundation/xo1ntao7atq7yjg2-360.png"
+  },
+  {
+    "name": "FOSSASIA",
+    "desc": "Free and Open Source Software in Asia",
+    "img": "https://summerofcode.withgoogle.com/media/org/fossasia-bg/rquaoyo4v86xj21l-360.png"
+  },
+  {
+    "name": "VideoLAN",
+    "desc": "Open Source Multimedia for everyone!",
+    "img": "https://summerofcode.withgoogle.com/media/org/videolan/9h28hsncvrt01voz-360.png"
+  },
+  {
+    "name": "Meshery",
+    "desc": "the extensible, collaborative, Kubernetes manager",
+    "img": "https://summerofcode.withgoogle.com/media/org/meshery/4ywkbdszwd1sw2rq-360.png"
+  },
+  {
+    "name": "dora-rs",
+    "desc": "Simplify robotic apps with AI",
+    "img": "https://summerofcode.withgoogle.com/media/org/dora-rs-tb/u8emntrmqq6vgcih-360.png"
+  },
+  {
+    "name": "The Mifos Initiative",
+    "desc": "End Poverty One Line of Code at a Time",
+    "img": "https://summerofcode.withgoogle.com/media/org/the-mifos-initiative/etmiqn0lkvfxvm5p-360.png"
+  },
+  {
+    "name": "OWASP Foundation",
+    "desc": "No more insecure software.",
+    "img": "https://summerofcode.withgoogle.com/media/org/owasp-foundation/haks8qbp0yvjvzge-360.png"
+  },
+  {
+    "name": "FLARE",
+    "desc": "Industry leading malware analysis",
+    "img": "https://summerofcode.withgoogle.com/media/org/flare/6so0wjs76qeewe9v-360.png"
+  },
+  {
+    "name": "Open Robotics",
+    "desc": "Open source robotics and a whole lot more!",
+    "img": "https://summerofcode.withgoogle.com/media/org/open-robotics/6pg3nwfpieq1qmqw-360.png"
+  },
+  {
+    "name": "Gemini CLI",
+    "desc": "Gemini CLI brings the power of Gemini directly into your terminal",
+    "img": "https://summerofcode.withgoogle.com/media/org/gemini-cli/mhi8cx7tyjt91i6n-360.png"
+  },
+  {
+    "name": "Mixxx",
+    "desc": "DJ Mixing App With Powerful Features For All DJs",
+    "img": "https://summerofcode.withgoogle.com/media/org/mixxx/ivlj1kl8jabpmfs9-360.png"
+  },
+  {
+    "name": "NumFOCUS",
+    "desc": "NumFOCUS promotes open source scientific software.",
+    "img": "https://summerofcode.withgoogle.com/media/org/numfocus/wimcwc2v6kjlidqc-360.png"
+  },
+  {
+    "name": "The FreeBSD Project",
+    "desc": "An OS for servers to embedded devices",
+    "img": "https://summerofcode.withgoogle.com/media/org/the-freebsd-project/4jmspor6mcto9wti-360.png"
+  },
+  {
+    "name": "Metasploit",
+    "desc": "World’s most used penetration testing framework",
+    "img": "https://summerofcode.withgoogle.com/media/org/metasploit/ggisatrqgjavuwd7-360.png"
+  },
+  {
+    "name": "AboutCode",
+    "desc": "Scan code for origin, license and vulnerabilities",
+    "img": "https://summerofcode.withgoogle.com/media/org/aboutcode/v8yhhmpej4djujai-360.png"
+  },
+  {
+    "name": "OSGeo (Open Source Geospatial Foundation)",
+    "desc": "The Open Source Geospatial Foundation",
+    "img": "https://summerofcode.withgoogle.com/media/org/osgeo-open-source-geospatial-foundation/yundulx00fbd1akm-360.png"
+  },
+  {
+    "name": "Neutralinojs",
+    "desc": "Lightweight cross-platform desktop app framework",
+    "img": "https://summerofcode.withgoogle.com/media/org/neutralinojs/thloxs47w1aa1uts-360.png"
+  },
+  {
+    "name": "Debian",
+    "desc": "The Universal Operating System",
+    "img": "https://summerofcode.withgoogle.com/media/org/debian/mmld9soj4mti8bjn-360.png"
+  },
+  {
+    "name": "The JPF team",
+    "desc": "JPF is a Java VM used to verify and debug software",
+    "img": "https://summerofcode.withgoogle.com/media/org/the-jpf-team-hg/rvqtnz4hyojrfgvw.png"
+  },
+  {
+    "name": "Open Science Labs",
+    "desc": "The community open to science and technology.",
+    "img": "https://summerofcode.withgoogle.com/media/org/open-science-labs/rjv8l7mrkiwlv9ab-360.png"
+  },
+  {
+    "name": "FreeCAD",
+    "desc": "Cross-platform 3D parametric modeler",
+    "img": "https://summerofcode.withgoogle.com/media/org/freecad/hka287elz3d4wvzu.png"
+  },
+  {
+    "name": "OpenMS Inc",
+    "desc": "Advancing Algorithms & AI for Biomedical Insights",
+    "img": "https://summerofcode.withgoogle.com/media/org/openms-inc/qhamer7p2auro5cs-360.png"
+  },
+  {
+    "name": "MalariaGEN",
+    "desc": "The Malaria Genomic Epidemiology Network",
+    "img": "https://summerofcode.withgoogle.com/media/org/malariagen/8dgzolp37fdiwm5h-360.png"
+  },
+  {
+    "name": "GNU Radio",
+    "desc": "The free & open software radio ecosystem",
+    "img": "https://summerofcode.withgoogle.com/media/org/gnu-radio/v1g5y6exzlwgfulv-360.png"
+  },
+  {
+    "name": "KDE Community",
+    "desc": "Control your digital life",
+    "img": "https://summerofcode.withgoogle.com/media/org/kde-community/1mbnnsqwd2ejcmy8-360.png"
+  },
+  {
+    "name": "Jitsi",
+    "desc": "State-of-the-art video conferencing",
+    "img": "https://summerofcode.withgoogle.com/media/org/jitsi/p3456ygkk7vdq0or-360.png"
+  },
+  {
+    "name": "Neuroinformatics Unit",
+    "desc": "Open-source tools for neuroscience and ML",
+    "img": "https://summerofcode.withgoogle.com/media/org/neuroinformatics-unit/ebzgcbxkxvbe9igk.png"
+  },
+  {
+    "name": "Machine Learning for Science (ML4SCI)",
+    "desc": "Machine learning applications in science",
+    "img": "https://summerofcode.withgoogle.com/media/org/machine-learning-for-science-ml4sci/rs5cxhuyh9dpwekt-360.png"
+  },
+  {
+    "name": "Stichting SU2",
+    "desc": "Computational Fluid Dynamics and Optimization",
+    "img": "https://summerofcode.withgoogle.com/media/org/stichting-su2/vexbqtmew7yd92hp-360.png"
+  },
+  {
+    "name": "Neovim",
+    "desc": "hyperextensible Vim-based text editor",
+    "img": "https://summerofcode.withgoogle.com/media/org/neovim/wsjrusphcrjmo5tf-360.png"
+  },
+  {
+    "name": "JdeRobot",
+    "desc": "Toolkit for developing Robotics applications",
+    "img": "https://summerofcode.withgoogle.com/media/org/jderobot/xwu8zkcagffmlqdj-360.png"
+  },
+  {
+    "name": "GNU Project",
+    "desc": "Development of the GNU Operating System",
+    "img": "https://summerofcode.withgoogle.com/media/org/gnu-project-av/aht1h1aunalkojoq-360.png"
+  },
+  {
+    "name": "Typelevel",
+    "desc": "We do functional programming together",
+    "img": "https://summerofcode.withgoogle.com/media/org/typelevel/hxlcctbqekguxcxx.png"
+  },
+  {
+    "name": "rocket.chat",
+    "desc": "Open source communications platform for the AI age",
+    "img": "https://summerofcode.withgoogle.com/media/org/rocketchat/qnog9kebwa9atw3l-360.png"
+  },
+  {
+    "name": "DBpedia",
+    "desc": "Global and Unified Access to Knowledge Graphs.",
+    "img": "https://summerofcode.withgoogle.com/media/org/dbpedia/cgjegpmawtu5fr6w-360.png"
+  },
+  {
+    "name": "SymPy",
+    "desc": "SymPy is a Python library for symbolic mathematics",
+    "img": "https://summerofcode.withgoogle.com/media/org/sympy/iz2tcxocrknp1sm0-360.png"
+  },
+  {
+    "name": "Zulip",
+    "desc": "Organized chat for distributed teams",
+    "img": "https://summerofcode.withgoogle.com/media/org/zulip/sx5ruvwv6nyugbk7-360.png"
+  },
+  {
+    "name": "MetaBrainz Foundation Inc",
+    "desc": "Open music / book metadata, music recommendations",
+    "img": "https://summerofcode.withgoogle.com/media/org/metabrainz-foundation-inc/m7lax42edddowwnl-360.png"
+  },
+  {
+    "name": "Project Mesa",
+    "desc": "Mesa: Agent-based modeling in Python 3+",
+    "img": "https://summerofcode.withgoogle.com/media/org/project-mesa/fh3o8surszufvjpv-360.png"
+  },
+  {
+    "name": "MoganLab",
+    "desc": "Make acedemic writing as nature as breathing",
+    "img": "https://summerofcode.withgoogle.com/media/org/moganlab/tuz5k2kmoivlkods-360.png"
+  },
+  {
+    "name": "International Catrobat Association",
+    "desc": "Free visual coding apps for computational thinking",
+    "img": "https://summerofcode.withgoogle.com/media/org/international-catrobat-association/dfkxzmsqlkyvwi2o-360.png"
+  },
+  {
+    "name": "Kubeflow",
+    "desc": "The Machine Learning Toolkit for Kubernetes (AI)",
+    "img": "https://summerofcode.withgoogle.com/media/org/kubeflow/uqphmd1y7opxpjim-360.png"
+  },
+  {
+    "name": "openSUSE Project",
+    "desc": "Makers' choice for sysadmins, developers & users",
+    "img": "https://summerofcode.withgoogle.com/media/org/opensuse-project/zq11ebxj038xotbe-360.png"
+  },
+  {
+    "name": "LabLua",
+    "desc": "Programming Language Research with emphasis on Lua",
+    "img": "https://summerofcode.withgoogle.com/media/org/lablua/thpyrwywpx4z6p6s.png"
+  },
+  {
+    "name": "MIT App Inventor",
+    "desc": "Anyone can build apps with global impact",
+    "img": "https://summerofcode.withgoogle.com/media/org/mit-app-inventor/8ppq0spvr3j3gx8q-360.png"
+  },
+  {
+    "name": "SageMath",
+    "desc": "Open-source mathematics software system",
+    "img": "https://summerofcode.withgoogle.com/media/org/sagemath/1tcj7svgwadc13cj-360.png"
+  },
+  {
+    "name": "Tiled",
+    "desc": "A flexible level editor for everyone!",
+    "img": "https://summerofcode.withgoogle.com/media/org/tiled/bat2ba3t9fujdzyn-360.png"
+  },
+  {
+    "name": "OpenELIS Global",
+    "desc": "Empowering labs to Ensure Quality Health Care",
+    "img": "https://summerofcode.withgoogle.com/media/org/openelis-global/k6rnzk3hcktzabst-360.png"
+  },
+  {
+    "name": "Konflux",
+    "desc": "Secure software pipelines, the K8s way",
+    "img": "https://summerofcode.withgoogle.com/media/org/konflux/7znpk8j83biro6rn.png"
+  },
+  {
+    "name": "Kotlin Foundation",
+    "desc": "Advance the Kotlin programming language",
+    "img": "https://summerofcode.withgoogle.com/media/org/kotlin-foundation/2wyghqyy8nvvl4cq-360.png"
+  },
+  {
+    "name": "Free and Open Source Silicon Foundation",
+    "desc": "Working together for Free and Open Source Silicon",
+    "img": "https://summerofcode.withgoogle.com/media/org/free-and-open-source-silicon-foundation/aie951otsp3xucok.png"
+  },
+  {
+    "name": "Genome Assembly and Annotation",
+    "desc": "Unleashing the potential of big data in biology",
+    "img": "https://summerofcode.withgoogle.com/media/org/genome-assembly-and-annotation/ixuasrqx18soo7ml-360.png"
+  },
+  {
+    "name": "FFmpeg",
+    "desc": "Record, convert and stream audio & video",
+    "img": "https://summerofcode.withgoogle.com/media/org/ffmpeg/9nltyc13lvn7dqn0-360.png"
+  },
+  {
+    "name": "CERN-HSF",
+    "desc": "Umbrella for Particle Physics-related projects",
+    "img": "https://summerofcode.withgoogle.com/media/org/cern-hsf/cjus658sjzba5zhg-360.png"
+  },
+  {
+    "name": "LLVM Compiler Infrastructure",
+    "desc": "LLVM Compiler Infrastructure",
+    "img": "https://summerofcode.withgoogle.com/media/org/llvm-compiler-infrastructure/ize6lrlftlvdxtqe-360.png"
+  },
+  {
+    "name": "HumanAI",
+    "desc": "AI for the Arts and the Humanities",
+    "img": "https://summerofcode.withgoogle.com/media/org/humanai/n5oaqivpu4hu4alm-360.png"
+  },
+  {
+    "name": "Open Genome Informatics",
+    "desc": "Open access genomics and bioinformatics projects",
+    "img": "https://summerofcode.withgoogle.com/media/org/open-genome-informatics/p6nhalhjwargwd5s-360.png"
+  },
+  {
+    "name": "Cuneiform Digital Library Initiative (CDLI)",
+    "desc": "Curating humanity’s earliest written history",
+    "img": "https://summerofcode.withgoogle.com/media/org/cuneiform-digital-library-initiative-cdli/pcifkvibocfw8hiy.png"
+  },
+  {
+    "name": "The OpenROAD Initiative",
+    "desc": "Collaboratively building an OpenROAD ecosystem",
+    "img": "https://summerofcode.withgoogle.com/media/org/the-openroad-initiative/wsxrroe08v4rdaga-360.png"
+  },
+  {
+    "name": "R project for statistical computing",
+    "desc": "R software for statistical computing & graphics",
+    "img": "https://summerofcode.withgoogle.com/media/org/r-project-for-statistical-computing/7regeqcjh95nenso-360.png"
+  },
+  {
+    "name": "Open Food Facts",
+    "desc": "Better food choices for your health & the planet",
+    "img": "https://summerofcode.withgoogle.com/media/org/open-food-facts/ypo4wfmbo5ueujuf-360.png"
+  },
+  {
+    "name": "Synfig",
+    "desc": "Open-source 2D animation software",
+    "img": "https://summerofcode.withgoogle.com/media/org/synfig/ohcj3eigerib4jym-360.png"
+  },
+  {
+    "name": "KubeVirt",
+    "desc": "Building a virtualization API for Kubernetes",
+    "img": "https://summerofcode.withgoogle.com/media/org/kubevirt/pqdi8ojm0atxoo1s-360.png"
+  },
+  {
+    "name": "Processing Foundation",
+    "desc": "To empower all people to learn to program",
+    "img": "https://summerofcode.withgoogle.com/media/org/processing-foundation/xr2sncljbvtlop1n-360.png"
+  },
+  {
+    "name": "Gambit: The package for computation in game theory",
+    "desc": "The package for computation in game theory",
+    "img": "https://summerofcode.withgoogle.com/media/org/gambit-the-package-for-computation-in-game-theory/09u5sma4pizmwbqt-360.png"
+  },
+  {
+    "name": "OpenAstronomy",
+    "desc": "Look at the Universe with the power of Open Source",
+    "img": "https://summerofcode.withgoogle.com/media/org/openastronomy/3wvadxwxjc2arepg-360.png"
+  },
+  {
+    "name": "Open Technologies Alliance - GFOSS",
+    "desc": "Promote Open Standards and Open Source",
+    "img": "https://summerofcode.withgoogle.com/media/org/open-technologies-alliance-gfoss/kiyijull8pfdypve-360.png"
+  },
+  {
+    "name": "St. Jude Children's Research Hospital",
+    "desc": "Find cures. Saving children.",
+    "img": "https://summerofcode.withgoogle.com/media/org/st-jude-childrens-research-hospital-ai/qnfe4pckkvrq5tfw-360.png"
+  },
+  {
+    "name": "FOSSology",
+    "desc": "Open Source License Compliance by OSS",
+    "img": "https://summerofcode.withgoogle.com/media/org/fossology/bqfblnvpsqnfg5bh-360.png"
+  },
+  {
+    "name": "The Libreswan Project",
+    "desc": "Encrypting the Internet with IKE / IPsec VPN",
+    "img": "https://summerofcode.withgoogle.com/media/org/the-libreswan-project/k7boxaxvirkfj1ti-360.png"
+  },
+  {
+    "name": "MariaDB",
+    "desc": "The fastest growing Open Source Database",
+    "img": "https://summerofcode.withgoogle.com/media/org/mariadb/0nbzguld3ntsgeqv-360.png"
+  },
+  {
+    "name": "Liquid Galaxy project",
+    "desc": "We code immersive and interactive apps with GEarth",
+    "img": "https://summerofcode.withgoogle.com/media/org/liquid-galaxy-project/idbd8hebl6j7ajxn-360.png"
+  },
+  {
+    "name": "Uramaki LAB",
+    "desc": "The User Experience LAB based on IA",
+    "img": "https://summerofcode.withgoogle.com/media/org/uramaki-lab/pr3ivuk0zg7lhgj1-360.png"
+  },
+  {
+    "name": "Sugar Labs",
+    "desc": "Learning software for children",
+    "img": "https://summerofcode.withgoogle.com/media/org/sugar-labs/pgbt7fp6gr6lhihd-360.png"
+  },
+  {
+    "name": "GNU Mailman",
+    "desc": "GNU Mailman manages your mailing lists.",
+    "img": "https://summerofcode.withgoogle.com/media/org/gnu-mailman/cg5sxkouo8rjtjw2-360.png"
+  },
+  {
+    "name": "SW360",
+    "desc": "Software supply chain management done right !",
+    "img": "https://summerofcode.withgoogle.com/media/org/sw360/scylub8cx6f9mkzk-360.png"
+  },
+  {
+    "name": "RTEMS Project",
+    "desc": "A real-time operating system for Earth & Space",
+    "img": "https://summerofcode.withgoogle.com/media/org/rtems-project/mgzdqflwj84er5ml-360.png"
+  },
+  {
+    "name": "Oppia Foundation",
+    "desc": "Free platform for interactive, tutor-like lessons",
+    "img": "https://summerofcode.withgoogle.com/media/org/oppia-foundation/nqvgy9fm3aqshwtv-360.png"
+  },
+  {
+    "name": "MLLAM",
+    "desc": "Research software for AI weather forecasting",
+    "img": "https://summerofcode.withgoogle.com/media/org/mllam/ltm3mtlosvdcrw0c.png"
+  },
+  {
+    "name": "Pharo Consortium",
+    "desc": "Modern and immersive programming language",
+    "img": "https://summerofcode.withgoogle.com/media/org/pharo-consortium/zrxygkl3ycuvw6nb-360.png"
+  },
+  {
+    "name": "C2SI",
+    "desc": "C2SI develops FOSS softwares for everyone!!!",
+    "img": "https://summerofcode.withgoogle.com/media/org/c2si/35pwh3uirrpdctn8.png"
+  },
+  {
+    "name": "Accord Project",
+    "desc": "Open source software for smart legal contracts",
+    "img": "https://summerofcode.withgoogle.com/media/org/accord-project/1q3vpch01xpsriu9-360.png"
+  },
+  {
+    "name": "BRL-CAD",
+    "desc": "3D CAD & other computer-aided tech (CAx)",
+    "img": "https://summerofcode.withgoogle.com/media/org/brl-cad/4ec07aqdfrvygfed-360.png"
+  },
+  {
+    "name": "Ste||ar group",
+    "desc": "Shaping a Scalable Future",
+    "img": "https://summerofcode.withgoogle.com/media/org/stear-group/sebxbtinyakvrevb-360.png"
+  },
+  {
+    "name": "The Linux Foundation",
+    "desc": "Non-profit consortium fostering growth of Linux",
+    "img": "https://summerofcode.withgoogle.com/media/org/the-linux-foundation/ydeu9rliawhe6of9-360.png"
+  },
+  {
+    "name": "GeomScale",
+    "desc": "Scalable geometric and statistical software",
+    "img": "https://summerofcode.withgoogle.com/media/org/geomscale/ongpste986nd7t6p-360.png"
+  },
+  {
+    "name": "libssh",
+    "desc": "The SSH library",
+    "img": "https://summerofcode.withgoogle.com/media/org/libssh/kcfc8lhxh3uyozbu-360.png"
+  },
+  {
+    "name": "CCExtractor Development",
+    "desc": "TV, Rust, Flutter, Linux, VR and C. In any order.",
+    "img": "https://summerofcode.withgoogle.com/media/org/ccextractor-development/xjqt8fksfnyqyqrd-360.png"
+  },
+  {
+    "name": "Fortran-lang",
+    "desc": "High-performance parallel programming language",
+    "img": "https://summerofcode.withgoogle.com/media/org/fortran-lang/ay9se7mc6vgdwgbn-360.png"
+  },
+  {
+    "name": "Ceph",
+    "desc": "The Future of Storage",
+    "img": "https://summerofcode.withgoogle.com/media/org/ceph/rvqqprqtyq0rfrcc-360.png"
+  },
+  {
+    "name": "Internet Archive",
+    "desc": "Universal Access to All Knowledge",
+    "img": "https://summerofcode.withgoogle.com/media/org/internet-archive/uzbgzbb9tvp81c2i.png"
+  },
+  {
+    "name": "checkstyle",
+    "desc": "Helps to adheres of Java coding standard",
+    "img": "https://summerofcode.withgoogle.com/media/org/checkstyle/e8ubktvaft8eljli-360.png"
+  },
+  {
+    "name": "API Dash",
+    "desc": "Next-gen AI powered Open Source API DevTool",
+    "img": "https://summerofcode.withgoogle.com/media/org/api-dash/wgtarubdkvdp5qih-360.png"
+  },
+  {
+    "name": "The P4 Language Consortium",
+    "desc": "Evolve the programmable data plane ecosystem!",
+    "img": "https://summerofcode.withgoogle.com/media/org/the-p4-language-consortium/tru8mncy4zqlbxhe.png"
+  },
+  {
+    "name": "AnkiDroid",
+    "desc": "AnkiDroid makes remembering things easy",
+    "img": "https://summerofcode.withgoogle.com/media/org/ankidroid/cxtovrlsuuluttgi-360.png"
+  },
+  {
+    "name": "Haiku",
+    "desc": "Operating system that targets personal computing.",
+    "img": "https://summerofcode.withgoogle.com/media/org/haiku/lnrgd3agfl2kogbo-360.png"
+  },
+  {
+    "name": "Kornia",
+    "desc": "Advancing Computer Vision & Spatial AI, Openly",
+    "img": "https://summerofcode.withgoogle.com/media/org/kornia/p4e366l478clqvvg-360.png"
+  },
+  {
+    "name": "Python Software Foundation",
+    "desc": "A programming language used for science & more",
+    "img": "https://summerofcode.withgoogle.com/media/org/python-software-foundation/2vpxhpvcsvgyx3kg-360.png"
+  },
+  {
+    "name": "Git",
+    "desc": "Fast,Scalable,Distributed revision control system",
+    "img": "https://summerofcode.withgoogle.com/media/org/git/mbqqznjbaohwgq80-360.png"
+  },
+  {
+    "name": "Dart",
+    "desc": "Dart is a client language for apps on any platform",
+    "img": "https://summerofcode.withgoogle.com/media/org/dart/hsghljw4m6popf0x-360.png"
+  },
+  {
+    "name": "D Language Foundation",
+    "desc": "Write fast, read fast, and run fast.",
+    "img": "https://summerofcode.withgoogle.com/media/org/d-language-foundation/u25qvh5ljfkkhkjj.png"
+  },
+  {
+    "name": "ArduPilot",
+    "desc": "World's most advanced autonomous vehicle software",
+    "img": "https://summerofcode.withgoogle.com/media/org/ardupilot/oveqvcxkpgkuv8wq-360.png"
+  },
+  {
+    "name": "OpenVINO Toolkit",
+    "desc": "Make AI inference faster and easier to deploy!",
+    "img": "https://summerofcode.withgoogle.com/media/org/openvino-toolkit/ivzvok335ujezk2z-360.png"
+  },
+  {
+    "name": "GNU Image Manipulation Program",
+    "desc": "GIMP is a cross-platform image editor",
+    "img": "https://summerofcode.withgoogle.com/media/org/gnu-image-manipulation-program/ocldunfrxwufuvdf.png"
+  },
+  {
+    "name": "webpack",
+    "desc": "webpack is the module bundler for web projects",
+    "img": "https://summerofcode.withgoogle.com/media/org/webpack/bb5phgrkm0y4op3e-360.png"
+  },
+  {
+    "name": "Metaflow",
+    "desc": "A human centric machine learning framework",
+    "img": "https://summerofcode.withgoogle.com/media/org/metaflow/lxpx64opqtnss7yx-360.png"
+  },
+  {
+    "name": "Kiwix",
+    "desc": "Internet content available offline.",
+    "img": "https://summerofcode.withgoogle.com/media/org/kiwix/b6zuffwiyoulh0ku-360.png"
+  },
+  {
+    "name": "Open Science Initiative for Perfusion Imaging",
+    "desc": "Open access resources for perfusion imaging",
+    "img": "https://summerofcode.withgoogle.com/media/org/open-science-initiative-for-perfusion-imaging/bxlqptrs5g0ovtqz-360.png"
+  },
+  {
+    "name": "MoFA Org",
+    "desc": "Empower extraordinary with Composition AI",
+    "img": "https://summerofcode.withgoogle.com/media/org/mofa-org/fa7e34trht3ou7yo-360.png"
+  },
+  {
+    "name": "CRIU",
+    "desc": "Chekpoint/Restore for Linux tasks and containers",
+    "img": "https://summerofcode.withgoogle.com/media/org/criu/ypjxpancpwtdf698-360.png"
+  },
+  {
+    "name": "Learning Equality",
+    "desc": "Building equity in education to transform lives",
+    "img": "https://summerofcode.withgoogle.com/media/org/learning-equality/iptmmzjiktknrg9p-360.png"
+  },
+  {
+    "name": "Jenkins",
+    "desc": "Jenkins, build great things at any scale",
+    "img": "https://summerofcode.withgoogle.com/media/org/jenkins-wp/7qlgfron9nyj194y-360.png"
+  },
+  {
+    "name": "Joomla!",
+    "desc": "The flexible platform empowering website creators.",
+    "img": "https://summerofcode.withgoogle.com/media/org/joomla/dwntn9vfd52jkr9z.png"
+  },
+  {
+    "name": "QEMU",
+    "desc": "Open source machine emulator and virtualizer",
+    "img": "https://summerofcode.withgoogle.com/media/org/qemu/gik5gsxljb3j1jx1-360.png"
+  },
+  {
+    "name": "Ruby",
+    "desc": "Ruby is an object-oriented programming language",
+    "img": "https://summerofcode.withgoogle.com/media/org/ruby/dc6i7iw8w39rktw1-360.png"
+  },
+  {
+    "name": "LibreHealth",
+    "desc": "Healthcare for Humanity",
+    "img": "https://summerofcode.withgoogle.com/media/org/librehealth/wulnuhdjtsi0ngiv-360.png"
+  },
+  {
+    "name": "Wikimedia Foundation",
+    "desc": "Bringing free educational content to the world",
+    "img": "https://summerofcode.withgoogle.com/media/org/wikimedia-foundation-nd/2e6sdwa8tksr5sg2-360.png"
+  },
+  {
+    "name": "GNU Compiler Collection (GCC)",
+    "desc": "GNU compilers",
+    "img": "https://summerofcode.withgoogle.com/media/org/gnu-compiler-collection-gcc/kpspl59nyj0hoxlr-360.png"
+  },
+  {
+    "name": "Graphite",
+    "desc": "Multimedia art/design editor and graphics engine",
+    "img": "https://summerofcode.withgoogle.com/media/org/graphite-labs/p5x1ehnbihaxxqoq-360.png"
+  },
+  {
+    "name": "OpenMRS",
+    "desc": "Write Code, Save Lives.",
+    "img": "https://summerofcode.withgoogle.com/media/org/openmrs/evthgp3dhsqx5kyx-360.png"
+  },
+  {
+    "name": "Submitty",
+    "desc": "Homework Autograding and Course Management Tools",
+    "img": "https://summerofcode.withgoogle.com/media/org/submitty/jlpoxlj2rvpot6zv-360.png"
+  },
+  {
+    "name": "KolibriOS Project Team",
+    "desc": "A tiny and fast operating system in fasm",
+    "img": "https://summerofcode.withgoogle.com/media/org/kolibrios-project-team/mrtxpzuxixjqff62-360.png"
+  },
+  {
+    "name": "MDAnalysis",
+    "desc": "Analysis of molecular simulations data with Python",
+    "img": "https://summerofcode.withgoogle.com/media/org/mdanalysis/kf8rugznsqeskumi-360.png"
+  },
+  {
+    "name": "OpenStreetMap",
+    "desc": "Create and distribute free geodata for the world",
+    "img": "https://summerofcode.withgoogle.com/media/org/openstreetmap/ihw4tczyumj0yx81-360.png"
+  },
+  {
+    "name": "Learning Unlimited",
+    "desc": "Building excitement for teaching and learning",
+    "img": "https://summerofcode.withgoogle.com/media/org/learning-unlimited/prqi7cnmji8guahm-360.png"
+  },
+  {
+    "name": "GNU Octave",
+    "desc": "Free Your Numbers",
+    "img": "https://summerofcode.withgoogle.com/media/org/gnu-octave/0kc85jo6rl3eo2g0-360.png"
+  },
+  {
+    "name": "CGAL Project",
+    "desc": "C++ library of computational geometry",
+    "img": "https://summerofcode.withgoogle.com/media/org/cgal-project/9ubuadbe0eg5xfcw-360.png"
+  },
+  {
+    "name": "DeepChem",
+    "desc": "Democratize AI for drug discovery.",
+    "img": "https://summerofcode.withgoogle.com/media/org/deepchem/ffdofoxp3ba1qqmh-360.png"
+  },
+  {
+    "name": "ScummVM",
+    "desc": "Adventure and RPG preservation project",
+    "img": "https://summerofcode.withgoogle.com/media/org/scummvm/bnok4srtehdy3fbj-360.png"
+  },
+  {
+    "name": "LibreCube Initiative",
+    "desc": "Open Source Space Exploration",
+    "img": "https://summerofcode.withgoogle.com/media/org/librecube-initiative/zkfjswciuihmdxu1-360.png"
+  }
+]
